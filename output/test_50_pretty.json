@@ -1,0 +1,5218 @@
+[
+  {
+    "document_id": "BF-DOC-000001",
+    "document_type": "Registration Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "REGISTRATION DOCUMENT\nDocument Number: REG-2025-26773\nSurvey Number: 954/7A\nSubdivision: 09\nNames: Pooja Mane, Ajay Gaikwad\nVillage: Mangalwadi\nTaluka: Baramati\nDistrict: Pune\nIssue Date: 2025-04-10\nIssuer: Local Registration Office\nStatus: Amended\nThis synthetic record describes the land/document information listed above.\n",
+    "document_number": "REG-2025-26773",
+    "registration_number": "REG-2025-87783",
+    "survey_number": "954/7A",
+    "subdivision_number": "09",
+    "person_names": [
+      "Pooja Mane",
+      "Ajay Gaikwad"
+    ],
+    "district": "Pune",
+    "taluka": "Baramati",
+    "village": "Mangalwadi",
+    "issue_date": "2025-04-10",
+    "registration_date": "2025-05-17",
+    "transaction_date": "2025-04-10",
+    "issuer": "Local Registration Office",
+    "document_status": "Amended",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Registration Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Pooja Mane"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Mangalwadi"
+      },
+      {
+        "type": "location",
+        "value": "Baramati"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ],
+    "expected_dates": [
+      "2025-04-10",
+      "2025-05-17",
+      "2025-04-10"
+    ],
+    "expected_numbers": [
+      "REG-2025-26773",
+      "REG-2025-87783",
+      "954/7A",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "Registration Document",
+      "document_number": "REG-2025-26773",
+      "registration_number": "REG-2025-87783",
+      "survey_number": "954/7A",
+      "subdivision_number": "09",
+      "person_names": [
+        "Pooja Mane",
+        "Ajay Gaikwad"
+      ],
+      "district": "Pune",
+      "taluka": "Baramati",
+      "village": "Mangalwadi",
+      "issue_date": "2025-04-10",
+      "registration_date": "2025-05-17",
+      "transaction_date": "2025-04-10",
+      "issuer": "Local Registration Office",
+      "document_status": "Amended"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000001",
+      "source_facts": {
+        "document_type": "Registration Document",
+        "document_number": "REG-2025-26773",
+        "registration_number": "REG-2025-87783",
+        "survey_number": "954/7A",
+        "subdivision_number": "09",
+        "person_names": [
+          "Pooja Mane",
+          "Ajay Gaikwad"
+        ],
+        "district": "Pune",
+        "taluka": "Baramati",
+        "village": "Mangalwadi",
+        "issue_date": "2025-04-10",
+        "registration_date": "2025-05-17",
+        "transaction_date": "2025-04-10",
+        "issuer": "Local Registration Office",
+        "document_status": "Amended"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000002",
+    "document_type": "Mutation Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 2,
+    "ocr_text": "MUTATION DOCUMENT\nDocument Number: MUT-2026-17155\nSurvey Number : 601/4A\nSubdivision: 01\nNames : Sneha Deshmukh, Pooja Jadhav\nVillage : Akluj\nTaluka: Malshiras\nDistrict : Solapur\nIssue Date : 2026-01-06\nIssuer: District Land Records Office\nStatus : Under Review\n\nThis synthetic record describes the land/document information listed above.",
+    "document_number": "MUT-2026-17155",
+    "registration_number": "REG-2026-88040",
+    "survey_number": "601/4A",
+    "subdivision_number": "01",
+    "person_names": [
+      "Sneha Deshmukh",
+      "Pooja Jadhav"
+    ],
+    "district": "Solapur",
+    "taluka": "Malshiras",
+    "village": "Akluj",
+    "issue_date": "2026-01-06",
+    "registration_date": "2026-01-27",
+    "transaction_date": "2026-01-06",
+    "issuer": "District Land Records Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Mutation Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Sneha Deshmukh"
+      },
+      {
+        "type": "person_name",
+        "value": "Pooja Jadhav"
+      },
+      {
+        "type": "location",
+        "value": "Akluj"
+      },
+      {
+        "type": "location",
+        "value": "Malshiras"
+      },
+      {
+        "type": "location",
+        "value": "Solapur"
+      }
+    ],
+    "expected_dates": [
+      "2026-01-06",
+      "2026-01-27",
+      "2026-01-06"
+    ],
+    "expected_numbers": [
+      "MUT-2026-17155",
+      "REG-2026-88040",
+      "601/4A",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Mutation Document",
+      "document_number": "MUT-2026-17155",
+      "registration_number": "REG-2026-88040",
+      "survey_number": "601/4A",
+      "subdivision_number": "01",
+      "person_names": [
+        "Sneha Deshmukh",
+        "Pooja Jadhav"
+      ],
+      "district": "Solapur",
+      "taluka": "Malshiras",
+      "village": "Akluj",
+      "issue_date": "2026-01-06",
+      "registration_date": "2026-01-27",
+      "transaction_date": "2026-01-06",
+      "issuer": "District Land Records Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000002",
+      "source_facts": {
+        "document_type": "Mutation Document",
+        "document_number": "MUT-2026-17155",
+        "registration_number": "REG-2026-88040",
+        "survey_number": "601/4A",
+        "subdivision_number": "01",
+        "person_names": [
+          "Sneha Deshmukh",
+          "Pooja Jadhav"
+        ],
+        "district": "Solapur",
+        "taluka": "Malshiras",
+        "village": "Akluj",
+        "issue_date": "2026-01-06",
+        "registration_date": "2026-01-27",
+        "transaction_date": "2026-01-06",
+        "issuer": "District Land Records Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000003",
+    "document_type": "Sale Deed",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "SALE DEED\nDocument Number: SAL-2025-09603\nSurvey Number: 897/2\nSubdivision: 05\nNames: Amit Patil, Sachin Gaikwad\nVillage: Shivajinagar\nTaluka: Karvir\nDistrict: Kolhapur\nIssue Date: 2025-08-14\nIssuer: Rehabilitation Office\nStatus: Amended\nRegistration Number: REG-2025-70469\nTransaction Date: 2025-08-14\nSeller and buyer details are recorded for the property described above.\n",
+    "document_number": "SAL-2025-09603",
+    "registration_number": "REG-2025-70469",
+    "survey_number": "897/2",
+    "subdivision_number": "05",
+    "person_names": [
+      "Amit Patil",
+      "Sachin Gaikwad"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2025-08-14",
+    "registration_date": "2025-09-03",
+    "transaction_date": "2025-08-14",
+    "issuer": "Rehabilitation Office",
+    "document_status": "Amended",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Sale Deed"
+      },
+      {
+        "type": "person_name",
+        "value": "Amit Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Sachin Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2025-08-14",
+      "2025-09-03",
+      "2025-08-14"
+    ],
+    "expected_numbers": [
+      "SAL-2025-09603",
+      "REG-2025-70469",
+      "897/2",
+      "05"
+    ],
+    "ground_truth_json": {
+      "document_type": "Sale Deed",
+      "document_number": "SAL-2025-09603",
+      "registration_number": "REG-2025-70469",
+      "survey_number": "897/2",
+      "subdivision_number": "05",
+      "person_names": [
+        "Amit Patil",
+        "Sachin Gaikwad"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2025-08-14",
+      "registration_date": "2025-09-03",
+      "transaction_date": "2025-08-14",
+      "issuer": "Rehabilitation Office",
+      "document_status": "Amended"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000003",
+      "source_facts": {
+        "document_type": "Sale Deed",
+        "document_number": "SAL-2025-09603",
+        "registration_number": "REG-2025-70469",
+        "survey_number": "897/2",
+        "subdivision_number": "05",
+        "person_names": [
+          "Amit Patil",
+          "Sachin Gaikwad"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2025-08-14",
+        "registration_date": "2025-09-03",
+        "transaction_date": "2025-08-14",
+        "issuer": "Rehabilitation Office",
+        "document_status": "Amended"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000004",
+    "document_type": "8A",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "8A\n  Document Number: 8A-2023-45746\nSurvey Number: 373/4C\nSubdivision: 02\nNames: Rekha Kulkarni, Kavita Bhosale\nVillage : Akluj\n  Taluka : Malshiras\n  District: Solapur\nIssue Date: 2023-03-13\nIssuer: Local Registration Office\n\nStatus : Under Review\nThis synthetic record describes the land/document information listed above.",
+    "document_number": "8A-2023-45746",
+    "registration_number": null,
+    "survey_number": "373/4C",
+    "subdivision_number": "02",
+    "person_names": [
+      "Rekha Kulkarni",
+      "Kavita Bhosale"
+    ],
+    "district": "Solapur",
+    "taluka": "Malshiras",
+    "village": "Akluj",
+    "issue_date": "2023-03-13",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Local Registration Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "8A"
+      },
+      {
+        "type": "person_name",
+        "value": "Rekha Kulkarni"
+      },
+      {
+        "type": "person_name",
+        "value": "Kavita Bhosale"
+      },
+      {
+        "type": "location",
+        "value": "Akluj"
+      },
+      {
+        "type": "location",
+        "value": "Malshiras"
+      },
+      {
+        "type": "location",
+        "value": "Solapur"
+      }
+    ],
+    "expected_dates": [
+      "2023-03-13"
+    ],
+    "expected_numbers": [
+      "8A-2023-45746",
+      "373/4C",
+      "02"
+    ],
+    "ground_truth_json": {
+      "document_type": "8A",
+      "document_number": "8A-2023-45746",
+      "registration_number": null,
+      "survey_number": "373/4C",
+      "subdivision_number": "02",
+      "person_names": [
+        "Rekha Kulkarni",
+        "Kavita Bhosale"
+      ],
+      "district": "Solapur",
+      "taluka": "Malshiras",
+      "village": "Akluj",
+      "issue_date": "2023-03-13",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Local Registration Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000004",
+      "source_facts": {
+        "document_type": "8A",
+        "document_number": "8A-2023-45746",
+        "registration_number": null,
+        "survey_number": "373/4C",
+        "subdivision_number": "02",
+        "person_names": [
+          "Rekha Kulkarni",
+          "Kavita Bhosale"
+        ],
+        "district": "Solapur",
+        "taluka": "Malshiras",
+        "village": "Akluj",
+        "issue_date": "2023-03-13",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Local Registration Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000005",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "7/12\nDocument Number: 71-2022-20677\nSurvey Number: 177/8\nSubdivision: 05\nNames: Ajay Joshi, Madhuri Deshmukh\nVlllage: Shivajinagar\nTaluka: Karvir\nDistricf: Kolhapur\nIssue Date: 2022-05-21\nIssuer: District Land RecordS Office\nStatus: Amended\nThis synthetic record describes the Land/document information listed above.\n",
+    "document_number": "71-2022-20677",
+    "registration_number": null,
+    "survey_number": "177/8",
+    "subdivision_number": "05",
+    "person_names": [
+      "Ajay Joshi",
+      "Madhuri Deshmukh"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2022-05-21",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "District Land Records Office",
+    "document_status": "Amended",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Joshi"
+      },
+      {
+        "type": "person_name",
+        "value": "Madhuri Deshmukh"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2022-05-21"
+    ],
+    "expected_numbers": [
+      "71-2022-20677",
+      "177/8",
+      "05"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2022-20677",
+      "registration_number": null,
+      "survey_number": "177/8",
+      "subdivision_number": "05",
+      "person_names": [
+        "Ajay Joshi",
+        "Madhuri Deshmukh"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2022-05-21",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "District Land Records Office",
+      "document_status": "Amended"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000005",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2022-20677",
+        "registration_number": null,
+        "survey_number": "177/8",
+        "subdivision_number": "05",
+        "person_names": [
+          "Ajay Joshi",
+          "Madhuri Deshmukh"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2022-05-21",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "District Land Records Office",
+        "document_status": "Amended"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000006",
+    "document_type": "R&R Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "R&R DOCUMENT\nDocument Number: R&R-2024-87539\nSurvey Number: 873/1B\nSubdivision: 01\nNames: Rahul Chavan, Mahesh Jadhav\nVillage: Akluj\nDistrict: Solapur\nIssuer: Local Registration Office\nStatus: Under Review\nThis synthetic record describes the land/document information listed above.",
+    "document_number": "R&R-2024-87539",
+    "registration_number": null,
+    "survey_number": "873/1B",
+    "subdivision_number": "01",
+    "person_names": [
+      "Rahul Chavan",
+      "Mahesh Jadhav"
+    ],
+    "district": "Solapur",
+    "taluka": "Malshiras",
+    "village": "Akluj",
+    "issue_date": "2024-06-16",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Local Registration Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "R&R Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Rahul Chavan"
+      },
+      {
+        "type": "person_name",
+        "value": "Mahesh Jadhav"
+      },
+      {
+        "type": "location",
+        "value": "Akluj"
+      },
+      {
+        "type": "location",
+        "value": "Malshiras"
+      },
+      {
+        "type": "location",
+        "value": "Solapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-06-16"
+    ],
+    "expected_numbers": [
+      "R&R-2024-87539",
+      "873/1B",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "R&R Document",
+      "document_number": "R&R-2024-87539",
+      "registration_number": null,
+      "survey_number": "873/1B",
+      "subdivision_number": "01",
+      "person_names": [
+        "Rahul Chavan",
+        "Mahesh Jadhav"
+      ],
+      "district": "Solapur",
+      "taluka": "Malshiras",
+      "village": "Akluj",
+      "issue_date": "2024-06-16",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Local Registration Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000006",
+      "source_facts": {
+        "document_type": "R&R Document",
+        "document_number": "R&R-2024-87539",
+        "registration_number": null,
+        "survey_number": "873/1B",
+        "subdivision_number": "01",
+        "person_names": [
+          "Rahul Chavan",
+          "Mahesh Jadhav"
+        ],
+        "district": "Solapur",
+        "taluka": "Malshiras",
+        "village": "Akluj",
+        "issue_date": "2024-06-16",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Local Registration Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000007",
+    "document_type": "Registration Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Registration Document\nदस्तऐवज क्रमांक: REG-2025-15130\nसर्वे क्रमांक: 945/6B\nउपविभाग: 08\nधारक: Nitin Kulkarni, Sachin Shinde\nगाव: Shivajinagar\nतालुका: Karvir\nजिल्हा: Kolhapur\nजारी दिनांक: 2025-02-09\nजारी करणारे कार्यालय: Sub-Registrar Office\nस्थिती: Registered\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "REG-2025-15130",
+    "registration_number": "REG-2025-14030",
+    "survey_number": "945/6B",
+    "subdivision_number": "08",
+    "person_names": [
+      "Nitin Kulkarni",
+      "Sachin Shinde"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2025-02-09",
+    "registration_date": "2025-03-01",
+    "transaction_date": "2025-02-09",
+    "issuer": "Sub-Registrar Office",
+    "document_status": "Registered",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Registration Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Nitin Kulkarni"
+      },
+      {
+        "type": "person_name",
+        "value": "Sachin Shinde"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2025-02-09",
+      "2025-03-01",
+      "2025-02-09"
+    ],
+    "expected_numbers": [
+      "REG-2025-15130",
+      "REG-2025-14030",
+      "945/6B",
+      "08"
+    ],
+    "ground_truth_json": {
+      "document_type": "Registration Document",
+      "document_number": "REG-2025-15130",
+      "registration_number": "REG-2025-14030",
+      "survey_number": "945/6B",
+      "subdivision_number": "08",
+      "person_names": [
+        "Nitin Kulkarni",
+        "Sachin Shinde"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2025-02-09",
+      "registration_date": "2025-03-01",
+      "transaction_date": "2025-02-09",
+      "issuer": "Sub-Registrar Office",
+      "document_status": "Registered"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000007",
+      "source_facts": {
+        "document_type": "Registration Document",
+        "document_number": "REG-2025-15130",
+        "registration_number": "REG-2025-14030",
+        "survey_number": "945/6B",
+        "subdivision_number": "08",
+        "person_names": [
+          "Nitin Kulkarni",
+          "Sachin Shinde"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2025-02-09",
+        "registration_date": "2025-03-01",
+        "transaction_date": "2025-02-09",
+        "issuer": "Sub-Registrar Office",
+        "document_status": "Registered"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000008",
+    "document_type": "8A",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: 8A\nदस्तऐवज क्रमांक: 8A-2025-79277\nसर्वे क्रमांक: 152/4C\nउपविभाग: 07\nधारक: Prakash Chavan, Anita Deshmukh\nगाव: Sonwadi\nतालुका: Rahata\nजिल्हा: Ahmednagar\nजारी दिनांक: 2025-02-07\nजारी करणारे कार्यालय: Taluka Revenue Office\nस्थिती: Under Review\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "8A-2025-79277",
+    "registration_number": null,
+    "survey_number": "152/4C",
+    "subdivision_number": "07",
+    "person_names": [
+      "Prakash Chavan",
+      "Anita Deshmukh"
+    ],
+    "district": "Ahmednagar",
+    "taluka": "Rahata",
+    "village": "Sonwadi",
+    "issue_date": "2025-02-07",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Taluka Revenue Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "8A"
+      },
+      {
+        "type": "person_name",
+        "value": "Prakash Chavan"
+      },
+      {
+        "type": "person_name",
+        "value": "Anita Deshmukh"
+      },
+      {
+        "type": "location",
+        "value": "Sonwadi"
+      },
+      {
+        "type": "location",
+        "value": "Rahata"
+      },
+      {
+        "type": "location",
+        "value": "Ahmednagar"
+      }
+    ],
+    "expected_dates": [
+      "2025-02-07"
+    ],
+    "expected_numbers": [
+      "8A-2025-79277",
+      "152/4C",
+      "07"
+    ],
+    "ground_truth_json": {
+      "document_type": "8A",
+      "document_number": "8A-2025-79277",
+      "registration_number": null,
+      "survey_number": "152/4C",
+      "subdivision_number": "07",
+      "person_names": [
+        "Prakash Chavan",
+        "Anita Deshmukh"
+      ],
+      "district": "Ahmednagar",
+      "taluka": "Rahata",
+      "village": "Sonwadi",
+      "issue_date": "2025-02-07",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Taluka Revenue Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000008",
+      "source_facts": {
+        "document_type": "8A",
+        "document_number": "8A-2025-79277",
+        "registration_number": null,
+        "survey_number": "152/4C",
+        "subdivision_number": "07",
+        "person_names": [
+          "Prakash Chavan",
+          "Anita Deshmukh"
+        ],
+        "district": "Ahmednagar",
+        "taluka": "Rahata",
+        "village": "Sonwadi",
+        "issue_date": "2025-02-07",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Taluka Revenue Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000009",
+    "document_type": "Court Order",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "COURT ORDER \n Documcnt Nurnber: COU-2023-66245 \n Survey Number: 531/8A \n Subdivision: 01 \n Names: Priya Shinde, Ajay Shinde \n Villagc: Deopur \n Taluka: Sinnar \n District: Nashik \n Issue Date: 2023-03-08 \n Issuer: SUrvey Department \n Status: Verified \n Order Date: 2023-03-08 \n The order records the matter concerning the land identified above. \n ",
+    "document_number": "COU-2023-66245",
+    "registration_number": null,
+    "survey_number": "531/8A",
+    "subdivision_number": "01",
+    "person_names": [
+      "Priya Shinde",
+      "Ajay Shinde"
+    ],
+    "district": "Nashik",
+    "taluka": "Sinnar",
+    "village": "Deopur",
+    "issue_date": "2023-03-08",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Survey Department",
+    "document_status": "Verified",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Court Order"
+      },
+      {
+        "type": "person_name",
+        "value": "Priya Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Shinde"
+      },
+      {
+        "type": "location",
+        "value": "Deopur"
+      },
+      {
+        "type": "location",
+        "value": "Sinnar"
+      },
+      {
+        "type": "location",
+        "value": "Nashik"
+      }
+    ],
+    "expected_dates": [
+      "2023-03-08"
+    ],
+    "expected_numbers": [
+      "COU-2023-66245",
+      "531/8A",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Court Order",
+      "document_number": "COU-2023-66245",
+      "registration_number": null,
+      "survey_number": "531/8A",
+      "subdivision_number": "01",
+      "person_names": [
+        "Priya Shinde",
+        "Ajay Shinde"
+      ],
+      "district": "Nashik",
+      "taluka": "Sinnar",
+      "village": "Deopur",
+      "issue_date": "2023-03-08",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Survey Department",
+      "document_status": "Verified"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000009",
+      "source_facts": {
+        "document_type": "Court Order",
+        "document_number": "COU-2023-66245",
+        "registration_number": null,
+        "survey_number": "531/8A",
+        "subdivision_number": "01",
+        "person_names": [
+          "Priya Shinde",
+          "Ajay Shinde"
+        ],
+        "district": "Nashik",
+        "taluka": "Sinnar",
+        "village": "Deopur",
+        "issue_date": "2023-03-08",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Survey Department",
+        "document_status": "Verified"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000010",
+    "document_type": "Sale Deed",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "Sale Deed / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: SAL-2024-43720\nSurvey No. / सर्वे क्रमांक: 620/2\nSubdivision / उपविभाग: 07\nNames / नावे: Ajay Chavan, Mahesh Patil\nVillage / गाव: Kupwad\nTaluka / तालुका: Miraj\nDistrict / जिल्हा: Sangli\nIssue Date / जारी दिनांक: 2024-09-27\nIssuer / जारी करणारे कार्यालय: Revenue Department\nStatus / स्थिती: Pending\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "SAL-2024-43720",
+    "registration_number": "REG-2024-17147",
+    "survey_number": "620/2",
+    "subdivision_number": "07",
+    "person_names": [
+      "Ajay Chavan",
+      "Mahesh Patil"
+    ],
+    "district": "Sangli",
+    "taluka": "Miraj",
+    "village": "Kupwad",
+    "issue_date": "2024-09-27",
+    "registration_date": "2024-10-14",
+    "transaction_date": "2024-09-27",
+    "issuer": "Revenue Department",
+    "document_status": "Pending",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Sale Deed"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Chavan"
+      },
+      {
+        "type": "person_name",
+        "value": "Mahesh Patil"
+      },
+      {
+        "type": "location",
+        "value": "Kupwad"
+      },
+      {
+        "type": "location",
+        "value": "Miraj"
+      },
+      {
+        "type": "location",
+        "value": "Sangli"
+      }
+    ],
+    "expected_dates": [
+      "2024-09-27",
+      "2024-10-14",
+      "2024-09-27"
+    ],
+    "expected_numbers": [
+      "SAL-2024-43720",
+      "REG-2024-17147",
+      "620/2",
+      "07"
+    ],
+    "ground_truth_json": {
+      "document_type": "Sale Deed",
+      "document_number": "SAL-2024-43720",
+      "registration_number": "REG-2024-17147",
+      "survey_number": "620/2",
+      "subdivision_number": "07",
+      "person_names": [
+        "Ajay Chavan",
+        "Mahesh Patil"
+      ],
+      "district": "Sangli",
+      "taluka": "Miraj",
+      "village": "Kupwad",
+      "issue_date": "2024-09-27",
+      "registration_date": "2024-10-14",
+      "transaction_date": "2024-09-27",
+      "issuer": "Revenue Department",
+      "document_status": "Pending"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000010",
+      "source_facts": {
+        "document_type": "Sale Deed",
+        "document_number": "SAL-2024-43720",
+        "registration_number": "REG-2024-17147",
+        "survey_number": "620/2",
+        "subdivision_number": "07",
+        "person_names": [
+          "Ajay Chavan",
+          "Mahesh Patil"
+        ],
+        "district": "Sangli",
+        "taluka": "Miraj",
+        "village": "Kupwad",
+        "issue_date": "2024-09-27",
+        "registration_date": "2024-10-14",
+        "transaction_date": "2024-09-27",
+        "issuer": "Revenue Department",
+        "document_status": "Pending"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000011",
+    "document_type": "Death Certificate",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 2,
+    "ocr_text": "Death Certificate / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: DEA-2025-73520\nSurvey No. / सर्वे क्रमांक: 706/2C\nSubdivision / उपविभाग: 06\nNames / नावे: Meena Shinde, Madhuri Joshi\nVillage / गाव: Suryapur\nTaluka / तालुका: Phaltan\nDistrict / जिल्हा: Satara\nIssue Date / जारी दिनांक: 2025-07-28\nIssuer / जारी करणारे कार्यालय: Civil Court\nStatus / स्थिती: Registered\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "DEA-2025-73520",
+    "registration_number": null,
+    "survey_number": "706/2C",
+    "subdivision_number": "06",
+    "person_names": [
+      "Meena Shinde",
+      "Madhuri Joshi"
+    ],
+    "district": "Satara",
+    "taluka": "Phaltan",
+    "village": "Suryapur",
+    "issue_date": "2025-07-28",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Civil Court",
+    "document_status": "Registered",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Death Certificate"
+      },
+      {
+        "type": "person_name",
+        "value": "Meena Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Madhuri Joshi"
+      },
+      {
+        "type": "location",
+        "value": "Suryapur"
+      },
+      {
+        "type": "location",
+        "value": "Phaltan"
+      },
+      {
+        "type": "location",
+        "value": "Satara"
+      }
+    ],
+    "expected_dates": [
+      "2025-07-28"
+    ],
+    "expected_numbers": [
+      "DEA-2025-73520",
+      "706/2C",
+      "06"
+    ],
+    "ground_truth_json": {
+      "document_type": "Death Certificate",
+      "document_number": "DEA-2025-73520",
+      "registration_number": null,
+      "survey_number": "706/2C",
+      "subdivision_number": "06",
+      "person_names": [
+        "Meena Shinde",
+        "Madhuri Joshi"
+      ],
+      "district": "Satara",
+      "taluka": "Phaltan",
+      "village": "Suryapur",
+      "issue_date": "2025-07-28",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Civil Court",
+      "document_status": "Registered"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000011",
+      "source_facts": {
+        "document_type": "Death Certificate",
+        "document_number": "DEA-2025-73520",
+        "registration_number": null,
+        "survey_number": "706/2C",
+        "subdivision_number": "06",
+        "person_names": [
+          "Meena Shinde",
+          "Madhuri Joshi"
+        ],
+        "district": "Satara",
+        "taluka": "Phaltan",
+        "village": "Suryapur",
+        "issue_date": "2025-07-28",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Civil Court",
+        "document_status": "Registered"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000012",
+    "document_type": "Mutation Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "MUTATION DOCUMENT\nDocurnent Number: MUT-2022-48394\nSurvey Number: 13/5B\nSubdivision: 09\nNames: Priya Mane, Ajay Pawar\nVlllage: Pimpalgaon\nTaluka: Loha\nDistrlct: Nanded\nIssue Dale: 2022-01-20\nIssuer: Sub-Registrar Office\nStatus: Registered\nThis synthetic record describes the land/doCument infoRmation listed above.\n",
+    "document_number": "MUT-2022-48394",
+    "registration_number": "REG-2022-76351",
+    "survey_number": "13/5B",
+    "subdivision_number": "09",
+    "person_names": [
+      "Priya Mane",
+      "Ajay Pawar"
+    ],
+    "district": "Nanded",
+    "taluka": "Loha",
+    "village": "Pimpalgaon",
+    "issue_date": "2022-01-20",
+    "registration_date": "2022-01-28",
+    "transaction_date": "2022-01-20",
+    "issuer": "Sub-Registrar Office",
+    "document_status": "Registered",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Mutation Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Priya Mane"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Pawar"
+      },
+      {
+        "type": "location",
+        "value": "Pimpalgaon"
+      },
+      {
+        "type": "location",
+        "value": "Loha"
+      },
+      {
+        "type": "location",
+        "value": "Nanded"
+      }
+    ],
+    "expected_dates": [
+      "2022-01-20",
+      "2022-01-28",
+      "2022-01-20"
+    ],
+    "expected_numbers": [
+      "MUT-2022-48394",
+      "REG-2022-76351",
+      "13/5B",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "Mutation Document",
+      "document_number": "MUT-2022-48394",
+      "registration_number": "REG-2022-76351",
+      "survey_number": "13/5B",
+      "subdivision_number": "09",
+      "person_names": [
+        "Priya Mane",
+        "Ajay Pawar"
+      ],
+      "district": "Nanded",
+      "taluka": "Loha",
+      "village": "Pimpalgaon",
+      "issue_date": "2022-01-20",
+      "registration_date": "2022-01-28",
+      "transaction_date": "2022-01-20",
+      "issuer": "Sub-Registrar Office",
+      "document_status": "Registered"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000012",
+      "source_facts": {
+        "document_type": "Mutation Document",
+        "document_number": "MUT-2022-48394",
+        "registration_number": "REG-2022-76351",
+        "survey_number": "13/5B",
+        "subdivision_number": "09",
+        "person_names": [
+          "Priya Mane",
+          "Ajay Pawar"
+        ],
+        "district": "Nanded",
+        "taluka": "Loha",
+        "village": "Pimpalgaon",
+        "issue_date": "2022-01-20",
+        "registration_date": "2022-01-28",
+        "transaction_date": "2022-01-20",
+        "issuer": "Sub-Registrar Office",
+        "document_status": "Registered"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000013",
+    "document_type": "Property Card",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "PROPERTY CARD\nDocument Number: PRO-2025-05483\nSurvey Number: 166/6B\nSubdivision: 09\nNames: Deepak Patil, Rekha More\nVillage: Shivajinagar\nTaluka: Karvir\nDistrict: Kolhapur\nIssue Date: 2025-02-05\nIssuer: Taluka Revenue Office\nStatus: Transferred\nThis synthetic record describes the land/document information listed above.",
+    "document_number": "PRO-2025-05483",
+    "registration_number": null,
+    "survey_number": "166/6B",
+    "subdivision_number": "09",
+    "person_names": [
+      "Deepak Patil",
+      "Rekha More"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2025-02-05",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Taluka Revenue Office",
+    "document_status": "Transferred",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Property Card"
+      },
+      {
+        "type": "person_name",
+        "value": "Deepak Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Rekha More"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2025-02-05"
+    ],
+    "expected_numbers": [
+      "PRO-2025-05483",
+      "166/6B",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "Property Card",
+      "document_number": "PRO-2025-05483",
+      "registration_number": null,
+      "survey_number": "166/6B",
+      "subdivision_number": "09",
+      "person_names": [
+        "Deepak Patil",
+        "Rekha More"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2025-02-05",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Taluka Revenue Office",
+      "document_status": "Transferred"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000013",
+      "source_facts": {
+        "document_type": "Property Card",
+        "document_number": "PRO-2025-05483",
+        "registration_number": null,
+        "survey_number": "166/6B",
+        "subdivision_number": "09",
+        "person_names": [
+          "Deepak Patil",
+          "Rekha More"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2025-02-05",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Taluka Revenue Office",
+        "document_status": "Transferred"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000014",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "7/12 / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: 71-2023-27536\nSurvey No. / सर्वे क्रमांक: 29/2C\nSubdivision / उपविभाग: 05\nNames / नावे: Neha Patil, Neha Gaikwad\nVillage / गाव: Pimpalgaon\nTaluka / तालुका: Loha\nDistrict / जिल्हा: Nanded\nIssue Date / जारी दिनांक: 2023-09-24\nIssuer / जारी करणारे कार्यालय: Survey Department\nStatus / स्थिती: Issued\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "71-2023-27536",
+    "registration_number": null,
+    "survey_number": "29/2C",
+    "subdivision_number": "05",
+    "person_names": [
+      "Neha Patil",
+      "Neha Gaikwad"
+    ],
+    "district": "Nanded",
+    "taluka": "Loha",
+    "village": "Pimpalgaon",
+    "issue_date": "2023-09-24",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Survey Department",
+    "document_status": "Issued",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Pimpalgaon"
+      },
+      {
+        "type": "location",
+        "value": "Loha"
+      },
+      {
+        "type": "location",
+        "value": "Nanded"
+      }
+    ],
+    "expected_dates": [
+      "2023-09-24"
+    ],
+    "expected_numbers": [
+      "71-2023-27536",
+      "29/2C",
+      "05"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2023-27536",
+      "registration_number": null,
+      "survey_number": "29/2C",
+      "subdivision_number": "05",
+      "person_names": [
+        "Neha Patil",
+        "Neha Gaikwad"
+      ],
+      "district": "Nanded",
+      "taluka": "Loha",
+      "village": "Pimpalgaon",
+      "issue_date": "2023-09-24",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Survey Department",
+      "document_status": "Issued"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000014",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2023-27536",
+        "registration_number": null,
+        "survey_number": "29/2C",
+        "subdivision_number": "05",
+        "person_names": [
+          "Neha Patil",
+          "Neha Gaikwad"
+        ],
+        "district": "Nanded",
+        "taluka": "Loha",
+        "village": "Pimpalgaon",
+        "issue_date": "2023-09-24",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Survey Department",
+        "document_status": "Issued"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000015",
+    "document_type": "Compensation Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "COMPENSATION DOCUMENT\nDocument Number: COM-2025-73386\nSurvey Number: 97/8A\nSubdivision: 09\nNames: Vijay Shinde, Sneha Kadam\nVillage: Mangalwadi\nTaluka: Baramati\nDistrict: Pune\nIssue Date: 2025-10-28\nIssuer: District Land Records Office\nStatus: Pending\nThis synthetic record describes the land/document information listed above.\n",
+    "document_number": "COM-2025-73386",
+    "registration_number": null,
+    "survey_number": "97/8A",
+    "subdivision_number": "09",
+    "person_names": [
+      "Vijay Shinde",
+      "Sneha Kadam"
+    ],
+    "district": "Pune",
+    "taluka": "Baramati",
+    "village": "Mangalwadi",
+    "issue_date": "2025-10-28",
+    "registration_date": null,
+    "transaction_date": "2025-10-28",
+    "issuer": "District Land Records Office",
+    "document_status": "Pending",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Compensation Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Vijay Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Sneha Kadam"
+      },
+      {
+        "type": "location",
+        "value": "Mangalwadi"
+      },
+      {
+        "type": "location",
+        "value": "Baramati"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ],
+    "expected_dates": [
+      "2025-10-28",
+      "2025-10-28"
+    ],
+    "expected_numbers": [
+      "COM-2025-73386",
+      "97/8A",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "Compensation Document",
+      "document_number": "COM-2025-73386",
+      "registration_number": null,
+      "survey_number": "97/8A",
+      "subdivision_number": "09",
+      "person_names": [
+        "Vijay Shinde",
+        "Sneha Kadam"
+      ],
+      "district": "Pune",
+      "taluka": "Baramati",
+      "village": "Mangalwadi",
+      "issue_date": "2025-10-28",
+      "registration_date": null,
+      "transaction_date": "2025-10-28",
+      "issuer": "District Land Records Office",
+      "document_status": "Pending"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000015",
+      "source_facts": {
+        "document_type": "Compensation Document",
+        "document_number": "COM-2025-73386",
+        "registration_number": null,
+        "survey_number": "97/8A",
+        "subdivision_number": "09",
+        "person_names": [
+          "Vijay Shinde",
+          "Sneha Kadam"
+        ],
+        "district": "Pune",
+        "taluka": "Baramati",
+        "village": "Mangalwadi",
+        "issue_date": "2025-10-28",
+        "registration_date": null,
+        "transaction_date": "2025-10-28",
+        "issuer": "District Land Records Office",
+        "document_status": "Pending"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000016",
+    "document_type": "Survey Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "SURVEY DOCUMENT\nDocument Number: SUR-2024-24207\nSurvey Number: 281/9\nSubdivision: 04\nNames: Madhuri Sawant, Asha Joshi\nVillage: Deopur\nTaluka: Sinnar\nDistrict: Nashik\nIssue Date: 2024-04-12\nIssuer: Taluka Revenue Office\nStatus: Verified\nThis synthetic record describes the land/document information listed above.\n",
+    "document_number": "SUR-2024-23207",
+    "registration_number": null,
+    "survey_number": "281/9",
+    "subdivision_number": "04",
+    "person_names": [
+      "Madhuri Sawant",
+      "Asha Joshi"
+    ],
+    "district": "Nashik",
+    "taluka": "Sinnar",
+    "village": "Deopur",
+    "issue_date": "2024-04-12",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Taluka Revenue Office",
+    "document_status": "Verified",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Survey Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Madhuri Sawant"
+      },
+      {
+        "type": "person_name",
+        "value": "Asha Joshi"
+      },
+      {
+        "type": "location",
+        "value": "Deopur"
+      },
+      {
+        "type": "location",
+        "value": "Sinnar"
+      },
+      {
+        "type": "location",
+        "value": "Nashik"
+      }
+    ],
+    "expected_dates": [
+      "2024-04-12"
+    ],
+    "expected_numbers": [
+      "SUR-2024-23207",
+      "281/9",
+      "04"
+    ],
+    "ground_truth_json": {
+      "document_type": "Survey Document",
+      "document_number": "SUR-2024-23207",
+      "registration_number": null,
+      "survey_number": "281/9",
+      "subdivision_number": "04",
+      "person_names": [
+        "Madhuri Sawant",
+        "Asha Joshi"
+      ],
+      "district": "Nashik",
+      "taluka": "Sinnar",
+      "village": "Deopur",
+      "issue_date": "2024-04-12",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Taluka Revenue Office",
+      "document_status": "Verified"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000016",
+      "source_facts": {
+        "document_type": "Survey Document",
+        "document_number": "SUR-2024-23207",
+        "registration_number": null,
+        "survey_number": "281/9",
+        "subdivision_number": "04",
+        "person_names": [
+          "Madhuri Sawant",
+          "Asha Joshi"
+        ],
+        "district": "Nashik",
+        "taluka": "Sinnar",
+        "village": "Deopur",
+        "issue_date": "2024-04-12",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Taluka Revenue Office",
+        "document_status": "Verified"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000017",
+    "document_type": "8A",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "8A\nDocument Number: 8A-2024-53965\nSurvey Number : 740/5\nSubdivision: 06\n  Names: Sachin Bhosale, Sachin Jadhav\nVillage: Shivajinagar\nTaluka : Karvir\nDistrict: Kolhapur\nIssue Date: 2024-04-24\nIssuer: Revenue Department\nStatus: Registered\n  This synthetic record describes the land/document information listed above.",
+    "document_number": "8A-2024-53965",
+    "registration_number": null,
+    "survey_number": "740/5",
+    "subdivision_number": "06",
+    "person_names": [
+      "Sachin Bhosale",
+      "Sachin Jadhav"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2024-04-24",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Revenue Department",
+    "document_status": "Registered",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "8A"
+      },
+      {
+        "type": "person_name",
+        "value": "Sachin Bhosale"
+      },
+      {
+        "type": "person_name",
+        "value": "Sachin Jadhav"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-04-24"
+    ],
+    "expected_numbers": [
+      "8A-2024-53965",
+      "740/5",
+      "06"
+    ],
+    "ground_truth_json": {
+      "document_type": "8A",
+      "document_number": "8A-2024-53965",
+      "registration_number": null,
+      "survey_number": "740/5",
+      "subdivision_number": "06",
+      "person_names": [
+        "Sachin Bhosale",
+        "Sachin Jadhav"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2024-04-24",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Revenue Department",
+      "document_status": "Registered"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000017",
+      "source_facts": {
+        "document_type": "8A",
+        "document_number": "8A-2024-53965",
+        "registration_number": null,
+        "survey_number": "740/5",
+        "subdivision_number": "06",
+        "person_names": [
+          "Sachin Bhosale",
+          "Sachin Jadhav"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2024-04-24",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Revenue Department",
+        "document_status": "Registered"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000018",
+    "document_type": "Mutation Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "mUTATION DOCUMENT \n Document Number: MUT-2025-50141 \n Survey Number: 240 / 2C \n Subdivision: 01 \n Names: Prakash Bhosale, Neha Gaikwad \n Villagc: Shivajinagar \n Taluka: Karvir \n Distrlct: Kolhapur \n Issue Date: 2025-10-03 \n Issuer: Civil Court \n Status: Registered \n This synthetic record describes the land / docUment information listed above. \n ",
+    "document_number": "MUT-2025-50141",
+    "registration_number": "REG-2025-05076",
+    "survey_number": "240/2C",
+    "subdivision_number": "01",
+    "person_names": [
+      "Prakash Bhosale",
+      "Neha Gaikwad"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2025-10-03",
+    "registration_date": "2025-10-19",
+    "transaction_date": "2025-10-03",
+    "issuer": "Civil Court",
+    "document_status": "Registered",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Mutation Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Prakash Bhosale"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2025-10-03",
+      "2025-10-19",
+      "2025-10-03"
+    ],
+    "expected_numbers": [
+      "MUT-2025-50141",
+      "REG-2025-05076",
+      "240/2C",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Mutation Document",
+      "document_number": "MUT-2025-50141",
+      "registration_number": "REG-2025-05076",
+      "survey_number": "240/2C",
+      "subdivision_number": "01",
+      "person_names": [
+        "Prakash Bhosale",
+        "Neha Gaikwad"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2025-10-03",
+      "registration_date": "2025-10-19",
+      "transaction_date": "2025-10-03",
+      "issuer": "Civil Court",
+      "document_status": "Registered"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000018",
+      "source_facts": {
+        "document_type": "Mutation Document",
+        "document_number": "MUT-2025-50141",
+        "registration_number": "REG-2025-05076",
+        "survey_number": "240/2C",
+        "subdivision_number": "01",
+        "person_names": [
+          "Prakash Bhosale",
+          "Neha Gaikwad"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2025-10-03",
+        "registration_date": "2025-10-19",
+        "transaction_date": "2025-10-03",
+        "issuer": "Civil Court",
+        "document_status": "Registered"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000019",
+    "document_type": "Legal-Heir/Succession",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Legal-Heir/Succession\nदस्तऐवज क्रमांक: LEG-2024-29832\nसर्वे क्रमांक: 17/2A\nउपविभाग: 04\nधारक: Amit Patil, Rahul Jadhav, Sachin More\nगाव: Shivajinagar\nतालुका: Karvir\nजिल्हा: Kolhapur\nजारी दिनांक: 2024-08-21\nजारी करणारे कार्यालय: District Land Records Office\nस्थिती: Verified\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "LEG-2024-29832",
+    "registration_number": null,
+    "survey_number": "17/2A",
+    "subdivision_number": "04",
+    "person_names": [
+      "Amit Patil",
+      "Rahul Jadhav",
+      "Sachin More"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2024-08-21",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "District Land Records Office",
+    "document_status": "Verified",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Legal-Heir/Succession"
+      },
+      {
+        "type": "person_name",
+        "value": "Amit Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Rahul Jadhav"
+      },
+      {
+        "type": "person_name",
+        "value": "Sachin More"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-08-21"
+    ],
+    "expected_numbers": [
+      "LEG-2024-29832",
+      "17/2A",
+      "04"
+    ],
+    "ground_truth_json": {
+      "document_type": "Legal-Heir/Succession",
+      "document_number": "LEG-2024-29832",
+      "registration_number": null,
+      "survey_number": "17/2A",
+      "subdivision_number": "04",
+      "person_names": [
+        "Amit Patil",
+        "Rahul Jadhav",
+        "Sachin More"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2024-08-21",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "District Land Records Office",
+      "document_status": "Verified"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000019",
+      "source_facts": {
+        "document_type": "Legal-Heir/Succession",
+        "document_number": "LEG-2024-29832",
+        "registration_number": null,
+        "survey_number": "17/2A",
+        "subdivision_number": "04",
+        "person_names": [
+          "Amit Patil",
+          "Rahul Jadhav",
+          "Sachin More"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2024-08-21",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "District Land Records Office",
+        "document_status": "Verified"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000020",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 2,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: 7/12\nदस्तऐवज क्रमांक: 71-2023-43026\nसर्वे क्रमांक: 295/8B\nउपविभाग: 09\nधारक: Vijay Joshi, Prakash Gaikwad\nगाव: Shivajinagar\nतालुका: Karvir\nजिल्हा: Kolhapur\nजारी दिनांक: 2023-04-02\nजारी करणारे कार्यालय: Revenue Department\nस्थिती: Verified\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.",
+    "document_number": "71-2023-43026",
+    "registration_number": null,
+    "survey_number": "295/8B",
+    "subdivision_number": "09",
+    "person_names": [
+      "Vijay Joshi",
+      "Prakash Gaikwad"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2023-04-02",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Revenue Department",
+    "document_status": "Verified",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Vijay Joshi"
+      },
+      {
+        "type": "person_name",
+        "value": "Prakash Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2023-04-02"
+    ],
+    "expected_numbers": [
+      "71-2023-43026",
+      "295/8B",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2023-43026",
+      "registration_number": null,
+      "survey_number": "295/8B",
+      "subdivision_number": "09",
+      "person_names": [
+        "Vijay Joshi",
+        "Prakash Gaikwad"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2023-04-02",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Revenue Department",
+      "document_status": "Verified"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000020",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2023-43026",
+        "registration_number": null,
+        "survey_number": "295/8B",
+        "subdivision_number": "09",
+        "person_names": [
+          "Vijay Joshi",
+          "Prakash Gaikwad"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2023-04-02",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Revenue Department",
+        "document_status": "Verified"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000021",
+    "document_type": "Possession Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "Possession Document / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: POS-2023-84081\nSurvey No. / सर्वे क्रमांक: 258/8\nSubdivision / उपविभाग : 04\n  Names / नावे : Priya Jadhav, Sneha Chavan\n  Village / गाव: Pimpalgaon\nTaluka / तालुका: Loha\n\nDistrict / जिल्हा: Nanded\nIssue Date / जारी दिनांक: 2023-07-25\nIssuer / जारी करणारे कार्यालय: Sub-Registrar Office\nStatus / स्थिती: Under Review\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.",
+    "document_number": "POS-2023-84081",
+    "registration_number": null,
+    "survey_number": "258/8",
+    "subdivision_number": "04",
+    "person_names": [
+      "Priya Jadhav",
+      "Sneha Chavan"
+    ],
+    "district": "Nanded",
+    "taluka": "Loha",
+    "village": "Pimpalgaon",
+    "issue_date": "2023-07-25",
+    "registration_date": null,
+    "transaction_date": "2023-07-25",
+    "issuer": "Sub-Registrar Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Possession Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Priya Jadhav"
+      },
+      {
+        "type": "person_name",
+        "value": "Sneha Chavan"
+      },
+      {
+        "type": "location",
+        "value": "Pimpalgaon"
+      },
+      {
+        "type": "location",
+        "value": "Loha"
+      },
+      {
+        "type": "location",
+        "value": "Nanded"
+      }
+    ],
+    "expected_dates": [
+      "2023-07-25",
+      "2023-07-25"
+    ],
+    "expected_numbers": [
+      "POS-2023-84081",
+      "258/8",
+      "04"
+    ],
+    "ground_truth_json": {
+      "document_type": "Possession Document",
+      "document_number": "POS-2023-84081",
+      "registration_number": null,
+      "survey_number": "258/8",
+      "subdivision_number": "04",
+      "person_names": [
+        "Priya Jadhav",
+        "Sneha Chavan"
+      ],
+      "district": "Nanded",
+      "taluka": "Loha",
+      "village": "Pimpalgaon",
+      "issue_date": "2023-07-25",
+      "registration_date": null,
+      "transaction_date": "2023-07-25",
+      "issuer": "Sub-Registrar Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000021",
+      "source_facts": {
+        "document_type": "Possession Document",
+        "document_number": "POS-2023-84081",
+        "registration_number": null,
+        "survey_number": "258/8",
+        "subdivision_number": "04",
+        "person_names": [
+          "Priya Jadhav",
+          "Sneha Chavan"
+        ],
+        "district": "Nanded",
+        "taluka": "Loha",
+        "village": "Pimpalgaon",
+        "issue_date": "2023-07-25",
+        "registration_date": null,
+        "transaction_date": "2023-07-25",
+        "issuer": "Sub-Registrar Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000022",
+    "document_type": "Sale Deed",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "Sale Deed / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: SAL-2024-05015\nSurvey No. / सर्वे क्रमांक: 443/7\nSubdiviSion / उपविभाग: 01\nNames / नावे: Ramesh Jadhav, Mahesh Shinde\nVillage / गाव: Akluj\nTaluka / तालुका: Malshiras\nDistrict / जिल्हा: Solapur\nIssue Date / जारी दिनांक: 2024-11-09\nIssuer / जारी करणारे कार्यालय: Local Reglstration Office\nStatus / स्थिती: Amended\nThis Is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "SAL-2024-05015",
+    "registration_number": "REG-2024-14209",
+    "survey_number": "443/7",
+    "subdivision_number": "01",
+    "person_names": [
+      "Ramesh Jadhav",
+      "Mahesh Shinde"
+    ],
+    "district": "Solapur",
+    "taluka": "Malshiras",
+    "village": "Akluj",
+    "issue_date": "2024-11-09",
+    "registration_date": "2024-12-05",
+    "transaction_date": "2024-11-09",
+    "issuer": "Local Registration Office",
+    "document_status": "Amended",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Sale Deed"
+      },
+      {
+        "type": "person_name",
+        "value": "Ramesh Jadhav"
+      },
+      {
+        "type": "person_name",
+        "value": "Mahesh Shinde"
+      },
+      {
+        "type": "location",
+        "value": "Akluj"
+      },
+      {
+        "type": "location",
+        "value": "Malshiras"
+      },
+      {
+        "type": "location",
+        "value": "Solapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-11-09",
+      "2024-12-05",
+      "2024-11-09"
+    ],
+    "expected_numbers": [
+      "SAL-2024-05015",
+      "REG-2024-14209",
+      "443/7",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Sale Deed",
+      "document_number": "SAL-2024-05015",
+      "registration_number": "REG-2024-14209",
+      "survey_number": "443/7",
+      "subdivision_number": "01",
+      "person_names": [
+        "Ramesh Jadhav",
+        "Mahesh Shinde"
+      ],
+      "district": "Solapur",
+      "taluka": "Malshiras",
+      "village": "Akluj",
+      "issue_date": "2024-11-09",
+      "registration_date": "2024-12-05",
+      "transaction_date": "2024-11-09",
+      "issuer": "Local Registration Office",
+      "document_status": "Amended"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000022",
+      "source_facts": {
+        "document_type": "Sale Deed",
+        "document_number": "SAL-2024-05015",
+        "registration_number": "REG-2024-14209",
+        "survey_number": "443/7",
+        "subdivision_number": "01",
+        "person_names": [
+          "Ramesh Jadhav",
+          "Mahesh Shinde"
+        ],
+        "district": "Solapur",
+        "taluka": "Malshiras",
+        "village": "Akluj",
+        "issue_date": "2024-11-09",
+        "registration_date": "2024-12-05",
+        "transaction_date": "2024-11-09",
+        "issuer": "Local Registration Office",
+        "document_status": "Amended"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000023",
+    "document_type": "Legal-Heir/Succession",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "Legal-Heir/Succession / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: LEG-2025-57200\nSurvey No. / सर्वे क्रमांक: 422/6A\nSubdivision / उपविभाग: 04\nNames / नावे: Sanjay Deshmukh, Madhuri Kadam, Asha Sawant\nVillage / गाव: Suryapur\nTaluka / तालुका: Phaltan\nDistrict / जिल्हा: Satara\nIssue Date / जारी दिनांक: 2025-05-06\nIssuer / जारी करणारे कार्यालय: Compensation Authority\nStatus / स्थिती: Amended\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "LEG-2025-57200",
+    "registration_number": null,
+    "survey_number": "422/6A",
+    "subdivision_number": "04",
+    "person_names": [
+      "Sanjay Deshmukh",
+      "Madhuri Kadam",
+      "Asha Sawant"
+    ],
+    "district": "Satara",
+    "taluka": "Phaltan",
+    "village": "Suryapur",
+    "issue_date": "2025-05-06",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Compensation Authority",
+    "document_status": "Amended",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Legal-Heir/Succession"
+      },
+      {
+        "type": "person_name",
+        "value": "Sanjay Deshmukh"
+      },
+      {
+        "type": "person_name",
+        "value": "Madhuri Kadam"
+      },
+      {
+        "type": "person_name",
+        "value": "Asha Sawant"
+      },
+      {
+        "type": "location",
+        "value": "Suryapur"
+      },
+      {
+        "type": "location",
+        "value": "Phaltan"
+      },
+      {
+        "type": "location",
+        "value": "Satara"
+      }
+    ],
+    "expected_dates": [
+      "2025-05-06"
+    ],
+    "expected_numbers": [
+      "LEG-2025-57200",
+      "422/6A",
+      "04"
+    ],
+    "ground_truth_json": {
+      "document_type": "Legal-Heir/Succession",
+      "document_number": "LEG-2025-57200",
+      "registration_number": null,
+      "survey_number": "422/6A",
+      "subdivision_number": "04",
+      "person_names": [
+        "Sanjay Deshmukh",
+        "Madhuri Kadam",
+        "Asha Sawant"
+      ],
+      "district": "Satara",
+      "taluka": "Phaltan",
+      "village": "Suryapur",
+      "issue_date": "2025-05-06",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Compensation Authority",
+      "document_status": "Amended"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000023",
+      "source_facts": {
+        "document_type": "Legal-Heir/Succession",
+        "document_number": "LEG-2025-57200",
+        "registration_number": null,
+        "survey_number": "422/6A",
+        "subdivision_number": "04",
+        "person_names": [
+          "Sanjay Deshmukh",
+          "Madhuri Kadam",
+          "Asha Sawant"
+        ],
+        "district": "Satara",
+        "taluka": "Phaltan",
+        "village": "Suryapur",
+        "issue_date": "2025-05-06",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Compensation Authority",
+        "document_status": "Amended"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000024",
+    "document_type": "Other",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 2,
+    "ocr_text": "OTHER\nDocument Nurnber: OTH-2025-75575\nSurvey Number: 442/3C\nSubdivision: 08\nNames: Neha Mane, Amit Kadam\nVillage: Deopur\nTaluka: Sinnar\nDistrict: Nashik\nIssue Dale: 2025-05-26\nIssuer: Local Reglstration Office\nStatus: Pending\nThis synthetic record describes the land/document information listed above.\n",
+    "document_number": "OTH-2025-75575",
+    "registration_number": null,
+    "survey_number": "442/3C",
+    "subdivision_number": "08",
+    "person_names": [
+      "Neha Mane",
+      "Amit Kadam"
+    ],
+    "district": "Nashik",
+    "taluka": "Sinnar",
+    "village": "Deopur",
+    "issue_date": "2025-05-26",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Local Registration Office",
+    "document_status": "Pending",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Other"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Mane"
+      },
+      {
+        "type": "person_name",
+        "value": "Amit Kadam"
+      },
+      {
+        "type": "location",
+        "value": "Deopur"
+      },
+      {
+        "type": "location",
+        "value": "Sinnar"
+      },
+      {
+        "type": "location",
+        "value": "Nashik"
+      }
+    ],
+    "expected_dates": [
+      "2025-05-26"
+    ],
+    "expected_numbers": [
+      "OTH-2025-75575",
+      "442/3C",
+      "08"
+    ],
+    "ground_truth_json": {
+      "document_type": "Other",
+      "document_number": "OTH-2025-75575",
+      "registration_number": null,
+      "survey_number": "442/3C",
+      "subdivision_number": "08",
+      "person_names": [
+        "Neha Mane",
+        "Amit Kadam"
+      ],
+      "district": "Nashik",
+      "taluka": "Sinnar",
+      "village": "Deopur",
+      "issue_date": "2025-05-26",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Local Registration Office",
+      "document_status": "Pending"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000024",
+      "source_facts": {
+        "document_type": "Other",
+        "document_number": "OTH-2025-75575",
+        "registration_number": null,
+        "survey_number": "442/3C",
+        "subdivision_number": "08",
+        "person_names": [
+          "Neha Mane",
+          "Amit Kadam"
+        ],
+        "district": "Nashik",
+        "taluka": "Sinnar",
+        "village": "Deopur",
+        "issue_date": "2025-05-26",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Local Registration Office",
+        "document_status": "Pending"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000025",
+    "document_type": "Award Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 2,
+    "ocr_text": "Award Document / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: AWA-2023-00222\nSurvey No. / सर्वे क्रमांक : 61/9A\nSubdivision / उपविभाग: 02\nNames / नावे: Neha Shinde, Meena Kadam\nVillage / गाव: Mangalwadi\nTaluka / तालुका: Baramati\nDistrict / जिल्हा: Pune\nIssue Date / जारी दिनांक: 2023-01-25\nIssuer / जारी करणारे कार्यालय : Civil Court\n  Status / स्थिती: Issued\n\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.",
+    "document_number": "AWA-2023-00222",
+    "registration_number": null,
+    "survey_number": "61/9A",
+    "subdivision_number": "02",
+    "person_names": [
+      "Neha Shinde",
+      "Meena Kadam"
+    ],
+    "district": "Pune",
+    "taluka": "Baramati",
+    "village": "Mangalwadi",
+    "issue_date": "2023-01-25",
+    "registration_date": null,
+    "transaction_date": "2023-01-25",
+    "issuer": "Civil Court",
+    "document_status": "Issued",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Award Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Meena Kadam"
+      },
+      {
+        "type": "location",
+        "value": "Mangalwadi"
+      },
+      {
+        "type": "location",
+        "value": "Baramati"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ],
+    "expected_dates": [
+      "2023-01-25",
+      "2023-01-25"
+    ],
+    "expected_numbers": [
+      "AWA-2023-00222",
+      "61/9A",
+      "02"
+    ],
+    "ground_truth_json": {
+      "document_type": "Award Document",
+      "document_number": "AWA-2023-00222",
+      "registration_number": null,
+      "survey_number": "61/9A",
+      "subdivision_number": "02",
+      "person_names": [
+        "Neha Shinde",
+        "Meena Kadam"
+      ],
+      "district": "Pune",
+      "taluka": "Baramati",
+      "village": "Mangalwadi",
+      "issue_date": "2023-01-25",
+      "registration_date": null,
+      "transaction_date": "2023-01-25",
+      "issuer": "Civil Court",
+      "document_status": "Issued"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000025",
+      "source_facts": {
+        "document_type": "Award Document",
+        "document_number": "AWA-2023-00222",
+        "registration_number": null,
+        "survey_number": "61/9A",
+        "subdivision_number": "02",
+        "person_names": [
+          "Neha Shinde",
+          "Meena Kadam"
+        ],
+        "district": "Pune",
+        "taluka": "Baramati",
+        "village": "Mangalwadi",
+        "issue_date": "2023-01-25",
+        "registration_date": null,
+        "transaction_date": "2023-01-25",
+        "issuer": "Civil Court",
+        "document_status": "Issued"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000026",
+    "document_type": "Court Order",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "COURT ORDER\n\nDocument Number: COU-2024-56532\nSurvey Number: 228/7A\n\nSubdivision: 03\nNames : Nitin Patil, Nitin Pawar\n  Village: Pimpalgaon\n\nTaluka: Loha\n  District: Nanded\nIssue Date : 2024-11-30\n\nIssuer: Local Registration Office\nStatus : Verified\nOrder Date: 2024-11-30\nThe order records the matter concerning the land identified above.",
+    "document_number": "COU-2024-56532",
+    "registration_number": null,
+    "survey_number": "228/7A",
+    "subdivision_number": "03",
+    "person_names": [
+      "Nitin Patil",
+      "Nitin Pawar"
+    ],
+    "district": "Nanded",
+    "taluka": "Loha",
+    "village": "Pimpalgaon",
+    "issue_date": "2024-11-30",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Local Registration Office",
+    "document_status": "Verified",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Court Order"
+      },
+      {
+        "type": "person_name",
+        "value": "Nitin Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Nitin Pawar"
+      },
+      {
+        "type": "location",
+        "value": "Pimpalgaon"
+      },
+      {
+        "type": "location",
+        "value": "Loha"
+      },
+      {
+        "type": "location",
+        "value": "Nanded"
+      }
+    ],
+    "expected_dates": [
+      "2024-11-30"
+    ],
+    "expected_numbers": [
+      "COU-2024-56532",
+      "228/7A",
+      "03"
+    ],
+    "ground_truth_json": {
+      "document_type": "Court Order",
+      "document_number": "COU-2024-56532",
+      "registration_number": null,
+      "survey_number": "228/7A",
+      "subdivision_number": "03",
+      "person_names": [
+        "Nitin Patil",
+        "Nitin Pawar"
+      ],
+      "district": "Nanded",
+      "taluka": "Loha",
+      "village": "Pimpalgaon",
+      "issue_date": "2024-11-30",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Local Registration Office",
+      "document_status": "Verified"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000026",
+      "source_facts": {
+        "document_type": "Court Order",
+        "document_number": "COU-2024-56532",
+        "registration_number": null,
+        "survey_number": "228/7A",
+        "subdivision_number": "03",
+        "person_names": [
+          "Nitin Patil",
+          "Nitin Pawar"
+        ],
+        "district": "Nanded",
+        "taluka": "Loha",
+        "village": "Pimpalgaon",
+        "issue_date": "2024-11-30",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Local Registration Office",
+        "document_status": "Verified"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000027",
+    "document_type": "Court Order",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "Court Order / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: COU-2022-86952\nSurvey No. / सर्वे क्रमांक: 302/7\nSubdivision / उपविभाग: 03\nNames / नावे: Sanjay Pawar, Sanjay Patil\nVillage / गाव: Pimpalgaon\nTaluka / तालुका: Loha\nDistrict / जिल्हा: Nanded\nIssue Date / जारी दिनांक: 2022-05-24\nIssuer / जारी करणारे कार्यालय: Survey Department\nStatus / स्थिती: Rejected\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "COU-2022-86952",
+    "registration_number": null,
+    "survey_number": "302/7",
+    "subdivision_number": "03",
+    "person_names": [
+      "Sanjay Pawar",
+      "Sanjay Patil"
+    ],
+    "district": "Nanded",
+    "taluka": "Loha",
+    "village": "Pimpalgaon",
+    "issue_date": "2022-05-24",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Survey Department",
+    "document_status": "Rejected",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Court Order"
+      },
+      {
+        "type": "person_name",
+        "value": "Sanjay Pawar"
+      },
+      {
+        "type": "person_name",
+        "value": "Sanjay Patil"
+      },
+      {
+        "type": "location",
+        "value": "Pimpalgaon"
+      },
+      {
+        "type": "location",
+        "value": "Loha"
+      },
+      {
+        "type": "location",
+        "value": "Nanded"
+      }
+    ],
+    "expected_dates": [
+      "2022-05-24"
+    ],
+    "expected_numbers": [
+      "COU-2022-86952",
+      "302/7",
+      "03"
+    ],
+    "ground_truth_json": {
+      "document_type": "Court Order",
+      "document_number": "COU-2022-86952",
+      "registration_number": null,
+      "survey_number": "302/7",
+      "subdivision_number": "03",
+      "person_names": [
+        "Sanjay Pawar",
+        "Sanjay Patil"
+      ],
+      "district": "Nanded",
+      "taluka": "Loha",
+      "village": "Pimpalgaon",
+      "issue_date": "2022-05-24",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Survey Department",
+      "document_status": "Rejected"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000027",
+      "source_facts": {
+        "document_type": "Court Order",
+        "document_number": "COU-2022-86952",
+        "registration_number": null,
+        "survey_number": "302/7",
+        "subdivision_number": "03",
+        "person_names": [
+          "Sanjay Pawar",
+          "Sanjay Patil"
+        ],
+        "district": "Nanded",
+        "taluka": "Loha",
+        "village": "Pimpalgaon",
+        "issue_date": "2022-05-24",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Survey Department",
+        "document_status": "Rejected"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000028",
+    "document_type": "Mutation Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 2,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Mutation Document\nदस्तऐवज क्रमांक: MUT-2022-42754\nसर्वे क्रमांक : 775/6A\nउपविभाग : 01\n  धारक: Prakash Kadam, Deepak Mane\nगाव: Suryapur\nतालुका: Phaltan\nजिल्हा: Satara\nजारी दिनांक: 2022-09-13\nजारी करणारे कार्यालय: Local Registration Office\nस्थिती : Under Review\n  ही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.",
+    "document_number": "MUT-2022-42754",
+    "registration_number": "REG-2022-52744",
+    "survey_number": "775/6A",
+    "subdivision_number": "01",
+    "person_names": [
+      "Prakash Kadam",
+      "Deepak Mane"
+    ],
+    "district": "Satara",
+    "taluka": "Phaltan",
+    "village": "Suryapur",
+    "issue_date": "2022-09-13",
+    "registration_date": "2022-10-03",
+    "transaction_date": "2022-09-13",
+    "issuer": "Local Registration Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Mutation Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Prakash Kadam"
+      },
+      {
+        "type": "person_name",
+        "value": "Deepak Mane"
+      },
+      {
+        "type": "location",
+        "value": "Suryapur"
+      },
+      {
+        "type": "location",
+        "value": "Phaltan"
+      },
+      {
+        "type": "location",
+        "value": "Satara"
+      }
+    ],
+    "expected_dates": [
+      "2022-09-13",
+      "2022-10-03",
+      "2022-09-13"
+    ],
+    "expected_numbers": [
+      "MUT-2022-42754",
+      "REG-2022-52744",
+      "775/6A",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Mutation Document",
+      "document_number": "MUT-2022-42754",
+      "registration_number": "REG-2022-52744",
+      "survey_number": "775/6A",
+      "subdivision_number": "01",
+      "person_names": [
+        "Prakash Kadam",
+        "Deepak Mane"
+      ],
+      "district": "Satara",
+      "taluka": "Phaltan",
+      "village": "Suryapur",
+      "issue_date": "2022-09-13",
+      "registration_date": "2022-10-03",
+      "transaction_date": "2022-09-13",
+      "issuer": "Local Registration Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000028",
+      "source_facts": {
+        "document_type": "Mutation Document",
+        "document_number": "MUT-2022-42754",
+        "registration_number": "REG-2022-52744",
+        "survey_number": "775/6A",
+        "subdivision_number": "01",
+        "person_names": [
+          "Prakash Kadam",
+          "Deepak Mane"
+        ],
+        "district": "Satara",
+        "taluka": "Phaltan",
+        "village": "Suryapur",
+        "issue_date": "2022-09-13",
+        "registration_date": "2022-10-03",
+        "transaction_date": "2022-09-13",
+        "issuer": "Local Registration Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000029",
+    "document_type": "Mutation Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "  दस्तऐवज क्रमांक प्रकार: Mutation Document\nदस्तऐवज क्रमांक: MUT-2025-55109\nसर्वे क्रमांक: 68/9A\nउपविभाग: 03\nधारक: Amit Gaikwad, Amit Kulkarni\n\n  गाव: Deopur\nतालुका: Sinnar\nजिल्हा: Nashik\n  जारी दिनांक: 2025-11-28\nजारी करणारे कार्यालय: Local Registration Office\nस्थिती: Registered\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "MUT-2025-55109",
+    "registration_number": "REG-2025-87154",
+    "survey_number": "68/9A",
+    "subdivision_number": "03",
+    "person_names": [
+      "Amit Gaikwad",
+      "Amit Kulkarni"
+    ],
+    "district": "Nashik",
+    "taluka": "Sinnar",
+    "village": "Deopur",
+    "issue_date": "2025-11-28",
+    "registration_date": "2025-12-17",
+    "transaction_date": "2025-11-28",
+    "issuer": "Local Registration Office",
+    "document_status": "Registered",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Mutation Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Amit Gaikwad"
+      },
+      {
+        "type": "person_name",
+        "value": "Amit Kulkarni"
+      },
+      {
+        "type": "location",
+        "value": "Deopur"
+      },
+      {
+        "type": "location",
+        "value": "Sinnar"
+      },
+      {
+        "type": "location",
+        "value": "Nashik"
+      }
+    ],
+    "expected_dates": [
+      "2025-11-28",
+      "2025-12-17",
+      "2025-11-28"
+    ],
+    "expected_numbers": [
+      "MUT-2025-55109",
+      "REG-2025-87154",
+      "68/9A",
+      "03"
+    ],
+    "ground_truth_json": {
+      "document_type": "Mutation Document",
+      "document_number": "MUT-2025-55109",
+      "registration_number": "REG-2025-87154",
+      "survey_number": "68/9A",
+      "subdivision_number": "03",
+      "person_names": [
+        "Amit Gaikwad",
+        "Amit Kulkarni"
+      ],
+      "district": "Nashik",
+      "taluka": "Sinnar",
+      "village": "Deopur",
+      "issue_date": "2025-11-28",
+      "registration_date": "2025-12-17",
+      "transaction_date": "2025-11-28",
+      "issuer": "Local Registration Office",
+      "document_status": "Registered"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000029",
+      "source_facts": {
+        "document_type": "Mutation Document",
+        "document_number": "MUT-2025-55109",
+        "registration_number": "REG-2025-87154",
+        "survey_number": "68/9A",
+        "subdivision_number": "03",
+        "person_names": [
+          "Amit Gaikwad",
+          "Amit Kulkarni"
+        ],
+        "district": "Nashik",
+        "taluka": "Sinnar",
+        "village": "Deopur",
+        "issue_date": "2025-11-28",
+        "registration_date": "2025-12-17",
+        "transaction_date": "2025-11-28",
+        "issuer": "Local Registration Office",
+        "document_status": "Registered"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000030",
+    "document_type": "Award Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Award Document\nदस्तऐवज क्रमांक: AWA-2024-53226\nसर्वे क्रमांक: 423/2B\nउपविभाग: 01\nधारक: Rekha Jadhav, Meena Kulkarni\nगाव: Shivajinagar\nतालुका: Karvir\nजिल्हा: Kolhapur\nजारी दिनांक: 2024-02-16\nजारी करणारे कार्यालय: Taluka Revenue Office\nस्थिती: Rejected\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "AWA-2024-53226",
+    "registration_number": null,
+    "survey_number": "423/2B",
+    "subdivision_number": "01",
+    "person_names": [
+      "Rekha Jadhav",
+      "Meena Kulkarni"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2024-02-16",
+    "registration_date": null,
+    "transaction_date": "2024-02-16",
+    "issuer": "Taluka Revenue Office",
+    "document_status": "Rejected",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Award Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Rekha Jadhav"
+      },
+      {
+        "type": "person_name",
+        "value": "Meena Kulkarni"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-02-16",
+      "2024-02-16"
+    ],
+    "expected_numbers": [
+      "AWA-2024-53226",
+      "423/2B",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Award Document",
+      "document_number": "AWA-2024-53226",
+      "registration_number": null,
+      "survey_number": "423/2B",
+      "subdivision_number": "01",
+      "person_names": [
+        "Rekha Jadhav",
+        "Meena Kulkarni"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2024-02-16",
+      "registration_date": null,
+      "transaction_date": "2024-02-16",
+      "issuer": "Taluka Revenue Office",
+      "document_status": "Rejected"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000030",
+      "source_facts": {
+        "document_type": "Award Document",
+        "document_number": "AWA-2024-53226",
+        "registration_number": null,
+        "survey_number": "423/2B",
+        "subdivision_number": "01",
+        "person_names": [
+          "Rekha Jadhav",
+          "Meena Kulkarni"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2024-02-16",
+        "registration_date": null,
+        "transaction_date": "2024-02-16",
+        "issuer": "Taluka Revenue Office",
+        "document_status": "Rejected"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000031",
+    "document_type": "R&R Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "R&R Document / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: R&R-2025-27550\nSurvey No. / सर्वे क्रमांक: 954/7A\nSubdivision / उपविभाग: 09\nNames / नावे: Pooja Mane, Ajay Gaikwad\nVillage / गाव: Mangalwadi\nTaluka / तालुका: Baramati\nDistrict / जिल्हा: Pune\nIssue Date / जारी दिनांक: 2025-01-27\nIssuer / जारी करणारे कार्यालय: Revenue Department\nStatus / स्थिती: Under Review\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "R&R-2025-27550",
+    "registration_number": null,
+    "survey_number": "954/7A",
+    "subdivision_number": "09",
+    "person_names": [
+      "Pooja Mane",
+      "Ajay Gaikwad"
+    ],
+    "district": "Pune",
+    "taluka": "Baramati",
+    "village": "Mangalwadi",
+    "issue_date": "2025-01-27",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Revenue Department",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "R&R Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Pooja Mane"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Mangalwadi"
+      },
+      {
+        "type": "location",
+        "value": "Baramati"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ],
+    "expected_dates": [
+      "2025-01-27"
+    ],
+    "expected_numbers": [
+      "R&R-2025-27550",
+      "954/7A",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "R&R Document",
+      "document_number": "R&R-2025-27550",
+      "registration_number": null,
+      "survey_number": "954/7A",
+      "subdivision_number": "09",
+      "person_names": [
+        "Pooja Mane",
+        "Ajay Gaikwad"
+      ],
+      "district": "Pune",
+      "taluka": "Baramati",
+      "village": "Mangalwadi",
+      "issue_date": "2025-01-27",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Revenue Department",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000001",
+      "source_facts": {
+        "document_type": "R&R Document",
+        "document_number": "R&R-2025-27550",
+        "registration_number": null,
+        "survey_number": "954/7A",
+        "subdivision_number": "09",
+        "person_names": [
+          "Pooja Mane",
+          "Ajay Gaikwad"
+        ],
+        "district": "Pune",
+        "taluka": "Baramati",
+        "village": "Mangalwadi",
+        "issue_date": "2025-01-27",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Revenue Department",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000032",
+    "document_type": "Survey Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 2,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Survey Document\nदस्तऐवज क्रमांक: SUR-2024-57955\nसर्वे क्रमांक: 601/4A\nउपविभाग: 01\nधारक: Sneha Deshmukh, Pooja Jadhav\nगाव: Akluj\nतालुका: Malshiras\nजिल्हा: Solapur\nजारी दिनांक: 2024-05-30\nजारी करणारे कार्यालय: Survey Department\nस्थिती: Closed\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "SUR-2024-57955",
+    "registration_number": null,
+    "survey_number": "601/4A",
+    "subdivision_number": "01",
+    "person_names": [
+      "Sneha Deshmukh",
+      "Pooja Jadhav"
+    ],
+    "district": "Solapur",
+    "taluka": "Malshiras",
+    "village": "Akluj",
+    "issue_date": "2024-05-30",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Survey Department",
+    "document_status": "Closed",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Survey Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Sneha Deshmukh"
+      },
+      {
+        "type": "person_name",
+        "value": "Pooja Jadhav"
+      },
+      {
+        "type": "location",
+        "value": "Akluj"
+      },
+      {
+        "type": "location",
+        "value": "Malshiras"
+      },
+      {
+        "type": "location",
+        "value": "Solapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-05-30"
+    ],
+    "expected_numbers": [
+      "SUR-2024-57955",
+      "601/4A",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Survey Document",
+      "document_number": "SUR-2024-57955",
+      "registration_number": null,
+      "survey_number": "601/4A",
+      "subdivision_number": "01",
+      "person_names": [
+        "Sneha Deshmukh",
+        "Pooja Jadhav"
+      ],
+      "district": "Solapur",
+      "taluka": "Malshiras",
+      "village": "Akluj",
+      "issue_date": "2024-05-30",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Survey Department",
+      "document_status": "Closed"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000002",
+      "source_facts": {
+        "document_type": "Survey Document",
+        "document_number": "SUR-2024-57955",
+        "registration_number": null,
+        "survey_number": "601/4A",
+        "subdivision_number": "01",
+        "person_names": [
+          "Sneha Deshmukh",
+          "Pooja Jadhav"
+        ],
+        "district": "Solapur",
+        "taluka": "Malshiras",
+        "village": "Akluj",
+        "issue_date": "2024-05-30",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Survey Department",
+        "document_status": "Closed"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000033",
+    "document_type": "Death Certificate",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "Death Certificate / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: DEA-2025-37197\nSurvey No. / सर्वे क्रमांक: 897/2\nSubdivision / उपविभाग: 05\nNames / नावे: Anita Shinde, Asha Shinde\nVillage / गाव: Shivajinagar\nTaluka / तालुका: Karvir\nDistrict / जिल्हा: Kolhapur\nIssue Date / जारी दिनांक: 2025-10-15\nIssuer / जारी करणारे कार्यालय: District Land Records Office\nStatus / स्थिती: Provisional\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "DEA-2025-37197",
+    "registration_number": null,
+    "survey_number": "897/2",
+    "subdivision_number": "05",
+    "person_names": [
+      "Anita Shinde",
+      "Asha Shinde"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2025-10-15",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "District Land Records Office",
+    "document_status": "Provisional",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Death Certificate"
+      },
+      {
+        "type": "person_name",
+        "value": "Anita Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Asha Shinde"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2025-10-15"
+    ],
+    "expected_numbers": [
+      "DEA-2025-37197",
+      "897/2",
+      "05"
+    ],
+    "ground_truth_json": {
+      "document_type": "Death Certificate",
+      "document_number": "DEA-2025-37197",
+      "registration_number": null,
+      "survey_number": "897/2",
+      "subdivision_number": "05",
+      "person_names": [
+        "Anita Shinde",
+        "Asha Shinde"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2025-10-15",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "District Land Records Office",
+      "document_status": "Provisional"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000003",
+      "source_facts": {
+        "document_type": "Death Certificate",
+        "document_number": "DEA-2025-37197",
+        "registration_number": null,
+        "survey_number": "897/2",
+        "subdivision_number": "05",
+        "person_names": [
+          "Anita Shinde",
+          "Asha Shinde"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2025-10-15",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "District Land Records Office",
+        "document_status": "Provisional"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000034",
+    "document_type": "Possession Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "POSSESSION DOCUMENT\n\nDocument Number: POS-2024-88185\n  Survey Number: 373/4C\nSubdivision : 02\n\n  Names: Rekha Kulkarni, Kavita Bhosale\nVillage: Akluj\nTaluka: Malshiras\n  District: Solapur\nIssue Date: 2024-11-21\n\nIssuer: Survey Department\n  Status: Pending\nThis synthetic record describes the land/document information listed above.",
+    "document_number": "POS-2024-88185",
+    "registration_number": null,
+    "survey_number": "373/4C",
+    "subdivision_number": "02",
+    "person_names": [
+      "Rekha Kulkarni",
+      "Kavita Bhosale"
+    ],
+    "district": "Solapur",
+    "taluka": "Malshiras",
+    "village": "Akluj",
+    "issue_date": "2024-11-21",
+    "registration_date": null,
+    "transaction_date": "2024-11-21",
+    "issuer": "Survey Department",
+    "document_status": "Pending",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Possession Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Rekha Kulkarni"
+      },
+      {
+        "type": "person_name",
+        "value": "Kavita Bhosale"
+      },
+      {
+        "type": "location",
+        "value": "Akluj"
+      },
+      {
+        "type": "location",
+        "value": "Malshiras"
+      },
+      {
+        "type": "location",
+        "value": "Solapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-11-21",
+      "2024-11-21"
+    ],
+    "expected_numbers": [
+      "POS-2024-88185",
+      "373/4C",
+      "02"
+    ],
+    "ground_truth_json": {
+      "document_type": "Possession Document",
+      "document_number": "POS-2024-88185",
+      "registration_number": null,
+      "survey_number": "373/4C",
+      "subdivision_number": "02",
+      "person_names": [
+        "Rekha Kulkarni",
+        "Kavita Bhosale"
+      ],
+      "district": "Solapur",
+      "taluka": "Malshiras",
+      "village": "Akluj",
+      "issue_date": "2024-11-21",
+      "registration_date": null,
+      "transaction_date": "2024-11-21",
+      "issuer": "Survey Department",
+      "document_status": "Pending"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000004",
+      "source_facts": {
+        "document_type": "Possession Document",
+        "document_number": "POS-2024-88185",
+        "registration_number": null,
+        "survey_number": "373/4C",
+        "subdivision_number": "02",
+        "person_names": [
+          "Rekha Kulkarni",
+          "Kavita Bhosale"
+        ],
+        "district": "Solapur",
+        "taluka": "Malshiras",
+        "village": "Akluj",
+        "issue_date": "2024-11-21",
+        "registration_date": null,
+        "transaction_date": "2024-11-21",
+        "issuer": "Survey Department",
+        "document_status": "Pending"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000035",
+    "document_type": "Property Card",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Property Card \n दस्तऐवज क्रमांक: PRO-2023-03202 \n सर्वे क्रमांक: 177 / 8 \n उपविभाग: 05 \n धारक: Ajay Joshi, Madhuri Deshmukh \n गाव: Shivajinagar \n तालुका: Karvir \n जिल्हा: Kolhapur \n जारी दिनांक: 2023-09-28 \n जारी करणारे कार्यालय: District Land Records Office \n स्थिती: Verified \n ही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे. \n ",
+    "document_number": "PRO-2023-03202",
+    "registration_number": null,
+    "survey_number": "177/8",
+    "subdivision_number": "05",
+    "person_names": [
+      "Ajay Joshi",
+      "Madhuri Deshmukh"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2023-09-28",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "District Land Records Office",
+    "document_status": "Verified",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Property Card"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Joshi"
+      },
+      {
+        "type": "person_name",
+        "value": "Madhuri Deshmukh"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2023-09-28"
+    ],
+    "expected_numbers": [
+      "PRO-2023-03202",
+      "177/8",
+      "05"
+    ],
+    "ground_truth_json": {
+      "document_type": "Property Card",
+      "document_number": "PRO-2023-03202",
+      "registration_number": null,
+      "survey_number": "177/8",
+      "subdivision_number": "05",
+      "person_names": [
+        "Ajay Joshi",
+        "Madhuri Deshmukh"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2023-09-28",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "District Land Records Office",
+      "document_status": "Verified"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000005",
+      "source_facts": {
+        "document_type": "Property Card",
+        "document_number": "PRO-2023-03202",
+        "registration_number": null,
+        "survey_number": "177/8",
+        "subdivision_number": "05",
+        "person_names": [
+          "Ajay Joshi",
+          "Madhuri Deshmukh"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2023-09-28",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "District Land Records Office",
+        "document_status": "Verified"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000036",
+    "document_type": "Other",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "Other  /  दस्तऐवज प्रकार \n Docurnent No.  /  दस्तऐवज क्रमांक: OTH-2022-59693 \n Survey No.  /  सर्वे क्रमांक: 873 / 1B \n Subdivision  /  उपविभाग: 01 \n Names  /  नावे: Rahul Chavan, Mahesh Jadhav \n Vlllage  /  गाव: Akluj \n Taluka  /  तालुका: Malshiras \n District  /  जिल्हा: Solapur \n Issue Date  /  जारी दिनांक: 2022-04-05 \n Issuer  /  जारी करणारे कार्यालय: District Land Records Office \n Status  /  स्थिती: Closed \n This is synthetic dataset content  /  हा कृत्रिम डेटासेट मजकूर आहे. \n ",
+    "document_number": "OTH-2022-59693",
+    "registration_number": null,
+    "survey_number": "873/1B",
+    "subdivision_number": "01",
+    "person_names": [
+      "Rahul Chavan",
+      "Mahesh Jadhav"
+    ],
+    "district": "Solapur",
+    "taluka": "Malshiras",
+    "village": "Akluj",
+    "issue_date": "2022-04-05",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "District Land Records Office",
+    "document_status": "Closed",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Other"
+      },
+      {
+        "type": "person_name",
+        "value": "Rahul Chavan"
+      },
+      {
+        "type": "person_name",
+        "value": "Mahesh Jadhav"
+      },
+      {
+        "type": "location",
+        "value": "Akluj"
+      },
+      {
+        "type": "location",
+        "value": "Malshiras"
+      },
+      {
+        "type": "location",
+        "value": "Solapur"
+      }
+    ],
+    "expected_dates": [
+      "2022-04-05"
+    ],
+    "expected_numbers": [
+      "OTH-2022-59693",
+      "873/1B",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Other",
+      "document_number": "OTH-2022-59693",
+      "registration_number": null,
+      "survey_number": "873/1B",
+      "subdivision_number": "01",
+      "person_names": [
+        "Rahul Chavan",
+        "Mahesh Jadhav"
+      ],
+      "district": "Solapur",
+      "taluka": "Malshiras",
+      "village": "Akluj",
+      "issue_date": "2022-04-05",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "District Land Records Office",
+      "document_status": "Closed"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000006",
+      "source_facts": {
+        "document_type": "Other",
+        "document_number": "OTH-2022-59693",
+        "registration_number": null,
+        "survey_number": "873/1B",
+        "subdivision_number": "01",
+        "person_names": [
+          "Rahul Chavan",
+          "Mahesh Jadhav"
+        ],
+        "district": "Solapur",
+        "taluka": "Malshiras",
+        "village": "Akluj",
+        "issue_date": "2022-04-05",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "District Land Records Office",
+        "document_status": "Closed"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000037",
+    "document_type": "Other",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 2,
+    "ocr_text": "Other / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: OTH-2024-52384\nSurvey No. / सर्वे क्रमांक: 945/6B\nSubdivision / उपविभाग: 08\nNames / नावे: Nitin Kulkarni, Sachin Shinde\nVillage / गाव: Shivajinagar\nTaluka / तालुका: Karvir\nDistrict / जिल्हा: Kolhapur\nIssue Date / जारी दिनांक: 2024-04-28\nIssuer / जारी करणारे कार्यालय: District Land Records Office\nStatus / स्थिती: Transferred\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "OTH-2024-52384",
+    "registration_number": null,
+    "survey_number": "945/6B",
+    "subdivision_number": "08",
+    "person_names": [
+      "Nitin Kulkarni",
+      "Sachin Shinde"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2024-04-28",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "District Land Records Office",
+    "document_status": "Transferred",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Other"
+      },
+      {
+        "type": "person_name",
+        "value": "Nitin Kulkarni"
+      },
+      {
+        "type": "person_name",
+        "value": "Sachin Shinde"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-04-28"
+    ],
+    "expected_numbers": [
+      "OTH-2024-52384",
+      "945/6B",
+      "08"
+    ],
+    "ground_truth_json": {
+      "document_type": "Other",
+      "document_number": "OTH-2024-52384",
+      "registration_number": null,
+      "survey_number": "945/6B",
+      "subdivision_number": "08",
+      "person_names": [
+        "Nitin Kulkarni",
+        "Sachin Shinde"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2024-04-28",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "District Land Records Office",
+      "document_status": "Transferred"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000007",
+      "source_facts": {
+        "document_type": "Other",
+        "document_number": "OTH-2024-52384",
+        "registration_number": null,
+        "survey_number": "945/6B",
+        "subdivision_number": "08",
+        "person_names": [
+          "Nitin Kulkarni",
+          "Sachin Shinde"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2024-04-28",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "District Land Records Office",
+        "document_status": "Transferred"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000038",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार : 7/12\n  दस्तऐवज क्रमांक : 71-2023-55725\n\nसर्वे क्रमांक: 152/4C\nउपविभाग: 07\nधारक : Prakash Chavan, Anita Deshmukh\nगाव : Sonwadi\nतालुका: Rahata\nजिल्हा : Ahmednagar\nजारी दिनांक: 2023-05-15\n  जारी करणारे कार्यालय : Taluka Revenue Office\nस्थिती : Issued\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.",
+    "document_number": "71-2023-55725",
+    "registration_number": null,
+    "survey_number": "152/4C",
+    "subdivision_number": "07",
+    "person_names": [
+      "Prakash Chavan",
+      "Anita Deshmukh"
+    ],
+    "district": "Ahmednagar",
+    "taluka": "Rahata",
+    "village": "Sonwadi",
+    "issue_date": "2023-05-15",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Taluka Revenue Office",
+    "document_status": "Issued",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Prakash Chavan"
+      },
+      {
+        "type": "person_name",
+        "value": "Anita Deshmukh"
+      },
+      {
+        "type": "location",
+        "value": "Sonwadi"
+      },
+      {
+        "type": "location",
+        "value": "Rahata"
+      },
+      {
+        "type": "location",
+        "value": "Ahmednagar"
+      }
+    ],
+    "expected_dates": [
+      "2023-05-15"
+    ],
+    "expected_numbers": [
+      "71-2023-55725",
+      "152/4C",
+      "07"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2023-55725",
+      "registration_number": null,
+      "survey_number": "152/4C",
+      "subdivision_number": "07",
+      "person_names": [
+        "Prakash Chavan",
+        "Anita Deshmukh"
+      ],
+      "district": "Ahmednagar",
+      "taluka": "Rahata",
+      "village": "Sonwadi",
+      "issue_date": "2023-05-15",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Taluka Revenue Office",
+      "document_status": "Issued"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000008",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2023-55725",
+        "registration_number": null,
+        "survey_number": "152/4C",
+        "subdivision_number": "07",
+        "person_names": [
+          "Prakash Chavan",
+          "Anita Deshmukh"
+        ],
+        "district": "Ahmednagar",
+        "taluka": "Rahata",
+        "village": "Sonwadi",
+        "issue_date": "2023-05-15",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Taluka Revenue Office",
+        "document_status": "Issued"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000039",
+    "document_type": "Registration Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "REGISTRATION DOCUMENT\nDocument Number: REG-2023-73061\nSurvey Number: 531/8A\nSubdivision: 01\nNames: Priya Shinde, Ajay Shinde\nVillage: Deopur\nTaluka: Sinnar\nDistrict: Nashik\nIssue Date: 2023-03-25\nIssuer: Local Registration Office\nStatus: Closed\nThis synthetic record describes the land/document information listed above.\n",
+    "document_number": "REG-2023-73061",
+    "registration_number": "REG-2023-32663",
+    "survey_number": "531/8A",
+    "subdivision_number": "01",
+    "person_names": [
+      "Priya Shinde",
+      "Ajay Shinde"
+    ],
+    "district": "Nashik",
+    "taluka": "Sinnar",
+    "village": "Deopur",
+    "issue_date": "2023-03-25",
+    "registration_date": "2023-04-06",
+    "transaction_date": "2023-03-25",
+    "issuer": "Local Registration Office",
+    "document_status": "Closed",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Registration Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Priya Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Shinde"
+      },
+      {
+        "type": "location",
+        "value": "Deopur"
+      },
+      {
+        "type": "location",
+        "value": "Sinnar"
+      },
+      {
+        "type": "location",
+        "value": "Nashik"
+      }
+    ],
+    "expected_dates": [
+      "2023-03-25",
+      "2023-04-06",
+      "2023-03-25"
+    ],
+    "expected_numbers": [
+      "REG-2023-73061",
+      "REG-2023-32663",
+      "531/8A",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "Registration Document",
+      "document_number": "REG-2023-73061",
+      "registration_number": "REG-2023-32663",
+      "survey_number": "531/8A",
+      "subdivision_number": "01",
+      "person_names": [
+        "Priya Shinde",
+        "Ajay Shinde"
+      ],
+      "district": "Nashik",
+      "taluka": "Sinnar",
+      "village": "Deopur",
+      "issue_date": "2023-03-25",
+      "registration_date": "2023-04-06",
+      "transaction_date": "2023-03-25",
+      "issuer": "Local Registration Office",
+      "document_status": "Closed"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000009",
+      "source_facts": {
+        "document_type": "Registration Document",
+        "document_number": "REG-2023-73061",
+        "registration_number": "REG-2023-32663",
+        "survey_number": "531/8A",
+        "subdivision_number": "01",
+        "person_names": [
+          "Priya Shinde",
+          "Ajay Shinde"
+        ],
+        "district": "Nashik",
+        "taluka": "Sinnar",
+        "village": "Deopur",
+        "issue_date": "2023-03-25",
+        "registration_date": "2023-04-06",
+        "transaction_date": "2023-03-25",
+        "issuer": "Local Registration Office",
+        "document_status": "Closed"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000040",
+    "document_type": "Survey Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 2,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Survey Document\nदस्तऐवज क्रमांक: SUR-2022-87501\nसर्वे क्रमांक: 620/2\nउपविभाग: 07\nधारक: Rekha Kadam, Deepak Pawar\nगाव: Kupwad\nतालुका: Miraj\nजिल्हा: Sangli\nजारी दिनांक: 2022-09-06\nजारी करणारे कार्यालय: Rehabilitation Office\nस्थिती: Registered\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "SUR-2022-87501",
+    "registration_number": null,
+    "survey_number": "620/2",
+    "subdivision_number": "07",
+    "person_names": [
+      "Rekha Kadam",
+      "Deepak Pawar"
+    ],
+    "district": "Sangli",
+    "taluka": "Miraj",
+    "village": "Kupwad",
+    "issue_date": "2022-09-06",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Rehabilitation Office",
+    "document_status": "Registered",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Survey Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Rekha Kadam"
+      },
+      {
+        "type": "person_name",
+        "value": "Deepak Pawar"
+      },
+      {
+        "type": "location",
+        "value": "Kupwad"
+      },
+      {
+        "type": "location",
+        "value": "Miraj"
+      },
+      {
+        "type": "location",
+        "value": "Sangli"
+      }
+    ],
+    "expected_dates": [
+      "2022-09-06"
+    ],
+    "expected_numbers": [
+      "SUR-2022-87501",
+      "620/2",
+      "07"
+    ],
+    "ground_truth_json": {
+      "document_type": "Survey Document",
+      "document_number": "SUR-2022-87501",
+      "registration_number": null,
+      "survey_number": "620/2",
+      "subdivision_number": "07",
+      "person_names": [
+        "Rekha Kadam",
+        "Deepak Pawar"
+      ],
+      "district": "Sangli",
+      "taluka": "Miraj",
+      "village": "Kupwad",
+      "issue_date": "2022-09-06",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Rehabilitation Office",
+      "document_status": "Registered"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000010",
+      "source_facts": {
+        "document_type": "Survey Document",
+        "document_number": "SUR-2022-87501",
+        "registration_number": null,
+        "survey_number": "620/2",
+        "subdivision_number": "07",
+        "person_names": [
+          "Rekha Kadam",
+          "Deepak Pawar"
+        ],
+        "district": "Sangli",
+        "taluka": "Miraj",
+        "village": "Kupwad",
+        "issue_date": "2022-09-06",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Rehabilitation Office",
+        "document_status": "Registered"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000041",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "7/12\nDocument Number: 71-2024-98993\nSurvey Number: 706/2C\nSubdivision: 06\nNames: Priya Pawar, Meena Shinde\nVillage: Suryapur\nTaluka: Phaltan\nDistrict: Satara\nIssue Date: 2024-12-23\nIssuer: Local Registration Office\nStatus: Rejected\nThis synthetic record describes the land/document information listed above.\n",
+    "document_number": "71-2024-98993",
+    "registration_number": null,
+    "survey_number": "706/2C",
+    "subdivision_number": "06",
+    "person_names": [
+      "Priya Pawar",
+      "Meena Shinde"
+    ],
+    "district": "Satara",
+    "taluka": "Phaltan",
+    "village": "Suryapur",
+    "issue_date": "2024-12-23",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Local Registration Office",
+    "document_status": "Rejected",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Priya Pawar"
+      },
+      {
+        "type": "person_name",
+        "value": "Meena Shinde"
+      },
+      {
+        "type": "location",
+        "value": "Suryapur"
+      },
+      {
+        "type": "location",
+        "value": "Phaltan"
+      },
+      {
+        "type": "location",
+        "value": "Satara"
+      }
+    ],
+    "expected_dates": [
+      "2024-12-23"
+    ],
+    "expected_numbers": [
+      "71-2024-98993",
+      "706/2C",
+      "06"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2024-98993",
+      "registration_number": null,
+      "survey_number": "706/2C",
+      "subdivision_number": "06",
+      "person_names": [
+        "Priya Pawar",
+        "Meena Shinde"
+      ],
+      "district": "Satara",
+      "taluka": "Phaltan",
+      "village": "Suryapur",
+      "issue_date": "2024-12-23",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Local Registration Office",
+      "document_status": "Rejected"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000011",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2024-98993",
+        "registration_number": null,
+        "survey_number": "706/2C",
+        "subdivision_number": "06",
+        "person_names": [
+          "Priya Pawar",
+          "Meena Shinde"
+        ],
+        "district": "Satara",
+        "taluka": "Phaltan",
+        "village": "Suryapur",
+        "issue_date": "2024-12-23",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Local Registration Office",
+        "document_status": "Rejected"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000042",
+    "document_type": "Legal-Heir/Succession",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Legal-Heir/Succession\nदस्तऐवज क्रमांक: LEG-2024-97473\nसर्वे क्रमांक: 13/5B\nउपविभाग: 09\nधारक: Priya Mane, Ajay Pawar, Madhuri Kadam\nगाव: Pimpalgaon\nतालुका: Loha\nजिल्हा: Nanded\nजारी दिनांक: 2024-06-25\nजारी करणारे कार्यालय: Local Registration Office\nस्थिती: Transferred\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.",
+    "document_number": "LEG-2024-97473",
+    "registration_number": null,
+    "survey_number": "13/5B",
+    "subdivision_number": "09",
+    "person_names": [
+      "Priya Mane",
+      "Ajay Pawar",
+      "Madhuri Kadam"
+    ],
+    "district": "Nanded",
+    "taluka": "Loha",
+    "village": "Pimpalgaon",
+    "issue_date": "2024-06-25",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Local Registration Office",
+    "document_status": "Transferred",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Legal-Heir/Succession"
+      },
+      {
+        "type": "person_name",
+        "value": "Priya Mane"
+      },
+      {
+        "type": "person_name",
+        "value": "Ajay Pawar"
+      },
+      {
+        "type": "person_name",
+        "value": "Madhuri Kadam"
+      },
+      {
+        "type": "location",
+        "value": "Pimpalgaon"
+      },
+      {
+        "type": "location",
+        "value": "Loha"
+      },
+      {
+        "type": "location",
+        "value": "Nanded"
+      }
+    ],
+    "expected_dates": [
+      "2024-06-25"
+    ],
+    "expected_numbers": [
+      "LEG-2024-97473",
+      "13/5B",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "Legal-Heir/Succession",
+      "document_number": "LEG-2024-97473",
+      "registration_number": null,
+      "survey_number": "13/5B",
+      "subdivision_number": "09",
+      "person_names": [
+        "Priya Mane",
+        "Ajay Pawar",
+        "Madhuri Kadam"
+      ],
+      "district": "Nanded",
+      "taluka": "Loha",
+      "village": "Pimpalgaon",
+      "issue_date": "2024-06-25",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Local Registration Office",
+      "document_status": "Transferred"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000012",
+      "source_facts": {
+        "document_type": "Legal-Heir/Succession",
+        "document_number": "LEG-2024-97473",
+        "registration_number": null,
+        "survey_number": "13/5B",
+        "subdivision_number": "09",
+        "person_names": [
+          "Priya Mane",
+          "Ajay Pawar",
+          "Madhuri Kadam"
+        ],
+        "district": "Nanded",
+        "taluka": "Loha",
+        "village": "Pimpalgaon",
+        "issue_date": "2024-06-25",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Local Registration Office",
+        "document_status": "Transferred"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000043",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi-English",
+    "page_count": 1,
+    "ocr_text": "7/12 / दस्तऐवज प्रकार\nDocument No. / दस्तऐवज क्रमांक: 71-2024-83580\nSurvey No. / सर्वे क्रमांक: 166/6B\nSubdivision / उपविभाग: 09\nNames / नावे: Deepak Patil, Rekha More\nVillage / गाव: Shivajinagar\nTaluka / तालुका: Karvir\nDistrict / जिल्हा: Kolhapur\nIssue Date / जारी दिनांक: 2024-08-30\nIssuer / जारी करणारे कार्यालय: Rehabilitation Office\nStatus / स्थिती: Under Review\nThis is synthetic dataset content / हा कृत्रिम डेटासेट मजकूर आहे.\n",
+    "document_number": "71-2024-83580",
+    "registration_number": null,
+    "survey_number": "166/6B",
+    "subdivision_number": "09",
+    "person_names": [
+      "Deepak Patil",
+      "Rekha More"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2024-08-30",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Rehabilitation Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Deepak Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Rekha More"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2024-08-30"
+    ],
+    "expected_numbers": [
+      "71-2024-83580",
+      "166/6B",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2024-83580",
+      "registration_number": null,
+      "survey_number": "166/6B",
+      "subdivision_number": "09",
+      "person_names": [
+        "Deepak Patil",
+        "Rekha More"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2024-08-30",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Rehabilitation Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000013",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2024-83580",
+        "registration_number": null,
+        "survey_number": "166/6B",
+        "subdivision_number": "09",
+        "person_names": [
+          "Deepak Patil",
+          "Rekha More"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2024-08-30",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Rehabilitation Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000044",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "7/12 \n Document Number: 71-2023-35993 \n Survey Number: 29/2C \n Subdivision: 05 \n Names: Neha Patil, Neha Gaikwad \n Villagc: Pimpalgaon \n Taluka: Loha \n District: Nanded \n Issue Date: 2023-07-22 \n Issuer: Local Registration Office \n Status: closed \n This synthetic record describes the land/document information listed above. \n ",
+    "document_number": "71-2023-35993",
+    "registration_number": null,
+    "survey_number": "29/2C",
+    "subdivision_number": "05",
+    "person_names": [
+      "Neha Patil",
+      "Neha Gaikwad"
+    ],
+    "district": "Nanded",
+    "taluka": "Loha",
+    "village": "Pimpalgaon",
+    "issue_date": "2023-07-22",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Local Registration Office",
+    "document_status": "Closed",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Pimpalgaon"
+      },
+      {
+        "type": "location",
+        "value": "Loha"
+      },
+      {
+        "type": "location",
+        "value": "Nanded"
+      }
+    ],
+    "expected_dates": [
+      "2023-07-22"
+    ],
+    "expected_numbers": [
+      "71-2023-35993",
+      "29/2C",
+      "05"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2023-35993",
+      "registration_number": null,
+      "survey_number": "29/2C",
+      "subdivision_number": "05",
+      "person_names": [
+        "Neha Patil",
+        "Neha Gaikwad"
+      ],
+      "district": "Nanded",
+      "taluka": "Loha",
+      "village": "Pimpalgaon",
+      "issue_date": "2023-07-22",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Local Registration Office",
+      "document_status": "Closed"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000014",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2023-35993",
+        "registration_number": null,
+        "survey_number": "29/2C",
+        "subdivision_number": "05",
+        "person_names": [
+          "Neha Patil",
+          "Neha Gaikwad"
+        ],
+        "district": "Nanded",
+        "taluka": "Loha",
+        "village": "Pimpalgaon",
+        "issue_date": "2023-07-22",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Local Registration Office",
+        "document_status": "Closed"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000045",
+    "document_type": "Property Card",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Property Card\nदस्तऐवज क्रमांक: PRO-2024-35615\nसर्वे क्रमांक: 97/8A\nउपविभाग: 09\nधारक: Vijay Shinde, Sneha Kadam\nगाव: Mangalwadi\nतालुका: Baramati\nजिल्हा: Pune\nजारी दिनांक: 2024-06-19\nजारी करणारे कार्यालय: Sub-Registrar Office\nस्थिती: Under Review\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "PRO-2024-35615",
+    "registration_number": null,
+    "survey_number": "97/8A",
+    "subdivision_number": "09",
+    "person_names": [
+      "Vijay Shinde",
+      "Sneha Kadam"
+    ],
+    "district": "Pune",
+    "taluka": "Baramati",
+    "village": "Mangalwadi",
+    "issue_date": "2024-06-19",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Sub-Registrar Office",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Property Card"
+      },
+      {
+        "type": "person_name",
+        "value": "Vijay Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Sneha Kadam"
+      },
+      {
+        "type": "location",
+        "value": "Mangalwadi"
+      },
+      {
+        "type": "location",
+        "value": "Baramati"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ],
+    "expected_dates": [
+      "2024-06-19"
+    ],
+    "expected_numbers": [
+      "PRO-2024-35615",
+      "97/8A",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "Property Card",
+      "document_number": "PRO-2024-35615",
+      "registration_number": null,
+      "survey_number": "97/8A",
+      "subdivision_number": "09",
+      "person_names": [
+        "Vijay Shinde",
+        "Sneha Kadam"
+      ],
+      "district": "Pune",
+      "taluka": "Baramati",
+      "village": "Mangalwadi",
+      "issue_date": "2024-06-19",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Sub-Registrar Office",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000015",
+      "source_facts": {
+        "document_type": "Property Card",
+        "document_number": "PRO-2024-35615",
+        "registration_number": null,
+        "survey_number": "97/8A",
+        "subdivision_number": "09",
+        "person_names": [
+          "Vijay Shinde",
+          "Sneha Kadam"
+        ],
+        "district": "Pune",
+        "taluka": "Baramati",
+        "village": "Mangalwadi",
+        "issue_date": "2024-06-19",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Sub-Registrar Office",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000046",
+    "document_type": "Sale Deed",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "SALE DEED\nDocument Number: SAL-2023-92592\nSurvey Number: 281/9\nSubdivision: 04\nNames: Vijay Shinde, Neha Chavan\nVillage: Deopur\nTaluka: Sinnar\nDistrict: Nashik\nIssue Date: 2023-11-19\nIssuer: Local Registration Office\nStatus: Pending\nRegistration Number: REG-2023-28044\nTransaction Date: 2023-11-19\nSeller and buyer details are recorded for the property described above.\n",
+    "document_number": "SAL-2023-92592",
+    "registration_number": "REG-2023-28044",
+    "survey_number": "281/9",
+    "subdivision_number": "04",
+    "person_names": [
+      "Vijay Shinde",
+      "Neha Chavan"
+    ],
+    "district": "Nashik",
+    "taluka": "Sinnar",
+    "village": "Deopur",
+    "issue_date": "2023-11-19",
+    "registration_date": "2023-12-10",
+    "transaction_date": "2023-11-19",
+    "issuer": "Local Registration Office",
+    "document_status": "Pending",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Sale Deed"
+      },
+      {
+        "type": "person_name",
+        "value": "Vijay Shinde"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Chavan"
+      },
+      {
+        "type": "location",
+        "value": "Deopur"
+      },
+      {
+        "type": "location",
+        "value": "Sinnar"
+      },
+      {
+        "type": "location",
+        "value": "Nashik"
+      }
+    ],
+    "expected_dates": [
+      "2023-11-19",
+      "2023-12-10",
+      "2023-11-19"
+    ],
+    "expected_numbers": [
+      "SAL-2023-92592",
+      "REG-2023-28044",
+      "281/9",
+      "04"
+    ],
+    "ground_truth_json": {
+      "document_type": "Sale Deed",
+      "document_number": "SAL-2023-92592",
+      "registration_number": "REG-2023-28044",
+      "survey_number": "281/9",
+      "subdivision_number": "04",
+      "person_names": [
+        "Vijay Shinde",
+        "Neha Chavan"
+      ],
+      "district": "Nashik",
+      "taluka": "Sinnar",
+      "village": "Deopur",
+      "issue_date": "2023-11-19",
+      "registration_date": "2023-12-10",
+      "transaction_date": "2023-11-19",
+      "issuer": "Local Registration Office",
+      "document_status": "Pending"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000016",
+      "source_facts": {
+        "document_type": "Sale Deed",
+        "document_number": "SAL-2023-92592",
+        "registration_number": "REG-2023-28044",
+        "survey_number": "281/9",
+        "subdivision_number": "04",
+        "person_names": [
+          "Vijay Shinde",
+          "Neha Chavan"
+        ],
+        "district": "Nashik",
+        "taluka": "Sinnar",
+        "village": "Deopur",
+        "issue_date": "2023-11-19",
+        "registration_date": "2023-12-10",
+        "transaction_date": "2023-11-19",
+        "issuer": "Local Registration Office",
+        "document_status": "Pending"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000047",
+    "document_type": "Sale Deed",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 1,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: Sale Deed\nदस्तऐवज क्रमांक: SAL-2022-55070\nसर्वे क्रमांक: 740/5\nउपविभाग: 06\nधारक: Madhuri Kadam, Meena Patil\nगाव: Shivajinagar\nतालुका: Karvir\nजिल्हा: Kolhapur\nजारी दिनांक: 2022-05-12\nजारी करणारे कार्यालय: Compensation Authority\nस्थिती: Amended\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "SAL-2022-55070",
+    "registration_number": "REG-2022-51050",
+    "survey_number": "740/5",
+    "subdivision_number": "06",
+    "person_names": [
+      "Madhuri Kadam",
+      "Meena Patil"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2022-05-12",
+    "registration_date": "2022-06-08",
+    "transaction_date": "2022-05-12",
+    "issuer": "Compensation Authority",
+    "document_status": "Amended",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Sale Deed"
+      },
+      {
+        "type": "person_name",
+        "value": "Madhuri Kadam"
+      },
+      {
+        "type": "person_name",
+        "value": "Meena Patil"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2022-05-12",
+      "2022-06-08",
+      "2022-05-12"
+    ],
+    "expected_numbers": [
+      "SAL-2022-55070",
+      "REG-2022-51050",
+      "740/5",
+      "06"
+    ],
+    "ground_truth_json": {
+      "document_type": "Sale Deed",
+      "document_number": "SAL-2022-55070",
+      "registration_number": "REG-2022-51050",
+      "survey_number": "740/5",
+      "subdivision_number": "06",
+      "person_names": [
+        "Madhuri Kadam",
+        "Meena Patil"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2022-05-12",
+      "registration_date": "2022-06-08",
+      "transaction_date": "2022-05-12",
+      "issuer": "Compensation Authority",
+      "document_status": "Amended"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000017",
+      "source_facts": {
+        "document_type": "Sale Deed",
+        "document_number": "SAL-2022-55070",
+        "registration_number": "REG-2022-51050",
+        "survey_number": "740/5",
+        "subdivision_number": "06",
+        "person_names": [
+          "Madhuri Kadam",
+          "Meena Patil"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2022-05-12",
+        "registration_date": "2022-06-08",
+        "transaction_date": "2022-05-12",
+        "issuer": "Compensation Authority",
+        "document_status": "Amended"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000048",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "Marathi",
+    "page_count": 2,
+    "ocr_text": "दस्तऐवज क्रमांक प्रकार: 7/12\nदस्तऐवज क्रमांक: 71-2025-62519\nसर्वे क्रमांक: 240/2C\nउपविभाग: 01\nधारक: Prakash Bhosale, Neha Gaikwad\nगाव: Shivajinagar\nतालुका: Karvir\nजिल्हा: Kolhapur\nजारी दिनांक: 2025-04-11\nजारी करणारे कार्यालय: Revenue Department\nस्थिती: Rejected\nही नोंद कृत्रिम असून केवळ डेटासेट निर्मितीसाठी आहे.\n",
+    "document_number": "71-2025-62519",
+    "registration_number": null,
+    "survey_number": "240/2C",
+    "subdivision_number": "01",
+    "person_names": [
+      "Prakash Bhosale",
+      "Neha Gaikwad"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2025-04-11",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Revenue Department",
+    "document_status": "Rejected",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Prakash Bhosale"
+      },
+      {
+        "type": "person_name",
+        "value": "Neha Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2025-04-11"
+    ],
+    "expected_numbers": [
+      "71-2025-62519",
+      "240/2C",
+      "01"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2025-62519",
+      "registration_number": null,
+      "survey_number": "240/2C",
+      "subdivision_number": "01",
+      "person_names": [
+        "Prakash Bhosale",
+        "Neha Gaikwad"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2025-04-11",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Revenue Department",
+      "document_status": "Rejected"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000018",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2025-62519",
+        "registration_number": null,
+        "survey_number": "240/2C",
+        "subdivision_number": "01",
+        "person_names": [
+          "Prakash Bhosale",
+          "Neha Gaikwad"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2025-04-11",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Revenue Department",
+        "document_status": "Rejected"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000049",
+    "document_type": "7/12",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 2,
+    "ocr_text": "7/12\nDocument Number: 71-2022-54922\nSurvey Number: 17/2A\nSubdivision: 04\nNames: Amit Patil, Rahul Jadhav\nVillage: Shivajinagar\nTaluka: Karvir\nIssue Date: 2022-01-13\nIssuer: Survey Department\nStatus: Under Review\nThis synthetic record describes the land/document information listed above.",
+    "document_number": "71-2022-54922",
+    "registration_number": null,
+    "survey_number": "17/2A",
+    "subdivision_number": "04",
+    "person_names": [
+      "Amit Patil",
+      "Rahul Jadhav"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2022-01-13",
+    "registration_date": null,
+    "transaction_date": null,
+    "issuer": "Survey Department",
+    "document_status": "Under Review",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "7/12"
+      },
+      {
+        "type": "person_name",
+        "value": "Amit Patil"
+      },
+      {
+        "type": "person_name",
+        "value": "Rahul Jadhav"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2022-01-13"
+    ],
+    "expected_numbers": [
+      "71-2022-54922",
+      "17/2A",
+      "04"
+    ],
+    "ground_truth_json": {
+      "document_type": "7/12",
+      "document_number": "71-2022-54922",
+      "registration_number": null,
+      "survey_number": "17/2A",
+      "subdivision_number": "04",
+      "person_names": [
+        "Amit Patil",
+        "Rahul Jadhav"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2022-01-13",
+      "registration_date": null,
+      "transaction_date": null,
+      "issuer": "Survey Department",
+      "document_status": "Under Review"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000019",
+      "source_facts": {
+        "document_type": "7/12",
+        "document_number": "71-2022-54922",
+        "registration_number": null,
+        "survey_number": "17/2A",
+        "subdivision_number": "04",
+        "person_names": [
+          "Amit Patil",
+          "Rahul Jadhav"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2022-01-13",
+        "registration_date": null,
+        "transaction_date": null,
+        "issuer": "Survey Department",
+        "document_status": "Under Review"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  },
+  {
+    "document_id": "BF-DOC-000050",
+    "document_type": "Compensation Document",
+    "source_type": "synthetic_text",
+    "file_path": null,
+    "file_format": "TEXT",
+    "language": "English",
+    "page_count": 1,
+    "ocr_text": "COMPENSATION DOCUMENT\nDocument Number: COM-2025-63994\nSurvey Number: 295/8B\nSubdivision: 09\nNames: Vijay Joshi, Prakash Gaikwad\nVillage: Shivajinagar\nTaluka: Karvir\nDistrict: Kolhapur\nIssue Date: 2025-01-07\nIssuer: Local Registration Office\nStatus: Rejected\nThis synthetic record describes the land/document information listed above.\n",
+    "document_number": "COM-2025-63994",
+    "registration_number": null,
+    "survey_number": "295/8B",
+    "subdivision_number": "09",
+    "person_names": [
+      "Vijay Joshi",
+      "Prakash Gaikwad"
+    ],
+    "district": "Kolhapur",
+    "taluka": "Karvir",
+    "village": "Shivajinagar",
+    "issue_date": "2025-01-07",
+    "registration_date": null,
+    "transaction_date": "2025-01-07",
+    "issuer": "Local Registration Office",
+    "document_status": "Rejected",
+    "expected_entities": [
+      {
+        "type": "document_type",
+        "value": "Compensation Document"
+      },
+      {
+        "type": "person_name",
+        "value": "Vijay Joshi"
+      },
+      {
+        "type": "person_name",
+        "value": "Prakash Gaikwad"
+      },
+      {
+        "type": "location",
+        "value": "Shivajinagar"
+      },
+      {
+        "type": "location",
+        "value": "Karvir"
+      },
+      {
+        "type": "location",
+        "value": "Kolhapur"
+      }
+    ],
+    "expected_dates": [
+      "2025-01-07",
+      "2025-01-07"
+    ],
+    "expected_numbers": [
+      "COM-2025-63994",
+      "295/8B",
+      "09"
+    ],
+    "ground_truth_json": {
+      "document_type": "Compensation Document",
+      "document_number": "COM-2025-63994",
+      "registration_number": null,
+      "survey_number": "295/8B",
+      "subdivision_number": "09",
+      "person_names": [
+        "Vijay Joshi",
+        "Prakash Gaikwad"
+      ],
+      "district": "Kolhapur",
+      "taluka": "Karvir",
+      "village": "Shivajinagar",
+      "issue_date": "2025-01-07",
+      "registration_date": null,
+      "transaction_date": "2025-01-07",
+      "issuer": "Local Registration Office",
+      "document_status": "Rejected"
+    },
+    "document_payload": {
+      "parcel_id": "BF-PARCEL-000020",
+      "source_facts": {
+        "document_type": "Compensation Document",
+        "document_number": "COM-2025-63994",
+        "registration_number": null,
+        "survey_number": "295/8B",
+        "subdivision_number": "09",
+        "person_names": [
+          "Vijay Joshi",
+          "Prakash Gaikwad"
+        ],
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Shivajinagar",
+        "issue_date": "2025-01-07",
+        "registration_date": null,
+        "transaction_date": "2025-01-07",
+        "issuer": "Local Registration Office",
+        "document_status": "Rejected"
+      },
+      "synthetic_only": true
+    },
+    "data_origin": "synthetic"
+  }
+]

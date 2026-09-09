@@ -1,0 +1,59 @@
+{
+  "valid": true,
+  "total_records": 50,
+  "document_counts": {
+    "Registration Document": 3,
+    "Mutation Document": 5,
+    "Sale Deed": 5,
+    "8A": 3,
+    "7/12": 9,
+    "R&R Document": 2,
+    "Court Order": 3,
+    "Death Certificate": 2,
+    "Property Card": 3,
+    "Compensation Document": 2,
+    "Survey Document": 3,
+    "Legal-Heir/Succession": 3,
+    "Possession Document": 2,
+    "Other": 3,
+    "Award Document": 2
+  },
+  "expected_document_counts": {
+    "7/12": 9,
+    "8A": 3,
+    "Property Card": 3,
+    "Sale Deed": 5,
+    "Mutation Document": 5,
+    "Registration Document": 3,
+    "Court Order": 3,
+    "Death Certificate": 2,
+    "Legal-Heir/Succession": 3,
+    "Survey Document": 3,
+    "Compensation Document": 2,
+    "Award Document": 2,
+    "Possession Document": 2,
+    "R&R Document": 2,
+    "Other": 3
+  },
+  "language_counts": {
+    "English": 23,
+    "Marathi": 15,
+    "Marathi-English": 12
+  },
+  "expected_language_counts": {
+    "English": 23,
+    "Marathi": 15,
+    "Marathi-English": 12
+  },
+  "errors": []
+}
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.
