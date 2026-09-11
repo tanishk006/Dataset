@@ -1,4 +1,4 @@
-# BhoomiFlow D2 Synthetic Dataset Generator FOR SIH 2026
+Synthetic Dataset Generator FOR SIH 2026
 
 This project implements a Python-only generator for the supplied D2 specification.
 
